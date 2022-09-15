@@ -1,0 +1,16 @@
+{
+  "title": "Guides",
+  "description": "Let's learn about different parts of Grow!",
+  "slug": "/category/guides-1",
+  "permalink": "/docs/category/guides-1",
+  "navigation": {
+    "previous": {
+      "title": "Guides",
+      "permalink": "/docs/category/guides"
+    },
+    "next": {
+      "title": "Radar Chart",
+      "permalink": "/docs/guides/stats/radar-chart"
+    }
+  }
+}

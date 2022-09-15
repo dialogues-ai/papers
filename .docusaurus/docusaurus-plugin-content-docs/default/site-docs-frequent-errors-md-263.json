@@ -1,0 +1,27 @@
+{
+  "unversionedId": "frequent-errors",
+  "id": "frequent-errors",
+  "title": "Known Bugs",
+  "description": "1. Grow is best used on a computer with a screen and mouse.",
+  "source": "@site/docs/frequent-errors.md",
+  "sourceDirName": ".",
+  "slug": "/frequent-errors",
+  "permalink": "/grow-docs/docs/frequent-errors",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/frequent-errors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tips & Tricks",
+    "permalink": "/grow-docs/docs/tips"
+  },
+  "next": {
+    "title": "Privacy",
+    "permalink": "/grow-docs/docs/privacy"
+  }
+}

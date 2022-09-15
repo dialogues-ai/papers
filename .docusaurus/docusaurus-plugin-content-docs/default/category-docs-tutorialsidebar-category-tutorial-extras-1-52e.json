@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras-1",
+  "permalink": "/docs/category/tutorial---extras-1",
+  "navigation": {
+    "previous": {
+      "title": "Welcome to Grow",
+      "permalink": "/docs/introduction/welcome"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

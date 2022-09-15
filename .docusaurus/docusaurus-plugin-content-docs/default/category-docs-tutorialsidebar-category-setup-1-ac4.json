@@ -1,0 +1,16 @@
+{
+  "title": "Setup",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/setup-1",
+  "permalink": "/docs/category/setup-1",
+  "navigation": {
+    "previous": {
+      "title": "Forms",
+      "permalink": "/docs/advanced/forms"
+    },
+    "next": {
+      "title": "Create Account",
+      "permalink": "/docs/setup/create-account"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Guides",
+  "description": "Let's learn about different parts of Grow!",
+  "slug": "/category/guides",
+  "permalink": "/grow-docs/docs/category/guides",
+  "navigation": {
+    "previous": {
+      "title": "Create Snapshot",
+      "permalink": "/grow-docs/docs/setup/create-snapshot"
+    },
+    "next": {
+      "title": "Entries",
+      "permalink": "/grow-docs/docs/category/entries"
+    }
+  }
+}

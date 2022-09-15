@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/entries/entry-accounting",
+  "id": "guides/entries/entry-accounting",
+  "title": "Entry Accounting",
+  "description": "",
+  "source": "@site/docs/guides/entries/entry-accounting.md",
+  "sourceDirName": "guides/entries",
+  "slug": "/guides/entries/entry-accounting",
+  "permalink": "/grow-docs/docs/guides/entries/entry-accounting",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/entries/entry-accounting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Make an Entry",
+    "permalink": "/grow-docs/docs/guides/entries/writing-entries"
+  },
+  "next": {
+    "title": "Adding Forms",
+    "permalink": "/grow-docs/docs/guides/entries/add-forms-to-entries"
+  }
+}

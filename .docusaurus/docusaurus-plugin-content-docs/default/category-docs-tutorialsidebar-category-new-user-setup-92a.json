@@ -1,0 +1,16 @@
+{
+  "title": "New User Setup",
+  "description": "Setup your journal.",
+  "slug": "/category/new-user-setup",
+  "permalink": "/docs/category/new-user-setup",
+  "navigation": {
+    "previous": {
+      "title": "Where to get it",
+      "permalink": "/docs/introduction/download_grow"
+    },
+    "next": {
+      "title": "Create Account",
+      "permalink": "/docs/setup/create-account"
+    }
+  }
+}

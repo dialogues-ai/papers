@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/nodes",
+  "id": "guides/nodes",
+  "title": "Nodes",
+  "description": "There are three ways to create nodes",
+  "source": "@site/docs/guides/nodes.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/nodes",
+  "permalink": "/grow-docs/docs/guides/nodes",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/nodes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Forms",
+    "permalink": "/grow-docs/docs/guides/forms"
+  },
+  "next": {
+    "title": "Stats",
+    "permalink": "/grow-docs/docs/category/stats"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Organizational Tips",
+  "description": "Let's learn about different parts of Grow!",
+  "slug": "/category/organizational-tips",
+  "permalink": "/docs/category/organizational-tips",
+  "navigation": {
+    "previous": {
+      "title": "Clock App (Unity)",
+      "permalink": "/docs/guides/unity-clock-app"
+    },
+    "next": {
+      "title": "How to Design Your Snapshots",
+      "permalink": "/docs/guides/improve your organization/designing-snapshots"
+    }
+  }
+}

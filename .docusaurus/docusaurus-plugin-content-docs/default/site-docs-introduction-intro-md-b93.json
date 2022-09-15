@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Introduction/intro",
+  "id": "Introduction/intro",
+  "title": "Welcome to Grow",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/Introduction/intro.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/intro",
+  "permalink": "/docs/Introduction/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tips",
+    "permalink": "/docs/Tips"
+  }
+}

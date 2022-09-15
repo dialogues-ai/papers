@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/forms",
+  "id": "guides/forms",
+  "title": "Forms",
+  "description": "",
+  "source": "@site/docs/guides/forms.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/forms",
+  "permalink": "/grow-docs/docs/guides/forms",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/forms.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Writing Good Entries",
+    "permalink": "/grow-docs/docs/guides/entries/entry-writing-tips"
+  },
+  "next": {
+    "title": "Nodes",
+    "permalink": "/grow-docs/docs/guides/nodes"
+  }
+}

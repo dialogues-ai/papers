@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup/create-account",
+  "id": "setup/create-account",
+  "title": "Create Account",
+  "description": "Follow these steps to create your account.",
+  "source": "@site/docs/setup/create-account.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/create-account",
+  "permalink": "/grow-docs/docs/setup/create-account",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/setup/create-account.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Download Grow",
+    "permalink": "/grow-docs/docs/introduction/download_grow"
+  },
+  "next": {
+    "title": "Create Entry",
+    "permalink": "/grow-docs/docs/setup/create-post"
+  }
+}

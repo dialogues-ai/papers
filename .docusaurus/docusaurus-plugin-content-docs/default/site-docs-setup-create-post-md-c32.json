@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup/create-post",
+  "id": "setup/create-post",
+  "title": "Create Entry",
+  "description": "Let's create an entry!",
+  "source": "@site/docs/setup/create-post.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/create-post",
+  "permalink": "/grow-docs/docs/setup/create-post",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/setup/create-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Account",
+    "permalink": "/grow-docs/docs/setup/create-account"
+  },
+  "next": {
+    "title": "Create Graph",
+    "permalink": "/grow-docs/docs/setup/create-graph"
+  }
+}

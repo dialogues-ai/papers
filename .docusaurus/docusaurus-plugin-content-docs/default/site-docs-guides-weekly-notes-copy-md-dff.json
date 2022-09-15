@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/weekly-notes copy",
+  "id": "guides/weekly-notes copy",
+  "title": "Clock App (Unity)",
+  "description": "",
+  "source": "@site/docs/guides/weekly-notes copy.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/weekly-notes copy",
+  "permalink": "/docs/guides/weekly-notes copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/weekly-notes copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Weekly Notes",
+    "permalink": "/docs/guides/weekly-notes"
+  },
+  "next": {
+    "title": "Tips & Tricks",
+    "permalink": "/docs/tips"
+  }
+}

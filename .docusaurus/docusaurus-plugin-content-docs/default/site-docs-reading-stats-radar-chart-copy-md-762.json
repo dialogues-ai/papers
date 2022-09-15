@@ -1,0 +1,27 @@
+{
+  "unversionedId": "reading-stats/radar-chart copy",
+  "id": "reading-stats/radar-chart copy",
+  "title": "Create Account",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/reading-stats/radar-chart copy.md",
+  "sourceDirName": "reading-stats",
+  "slug": "/reading-stats/radar-chart copy",
+  "permalink": "/docs/reading-stats/radar-chart copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reading-stats/radar-chart copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Your Stats",
+    "permalink": "/docs/category/your-stats"
+  },
+  "next": {
+    "title": "Create Account",
+    "permalink": "/docs/reading-stats/radar-chart"
+  }
+}

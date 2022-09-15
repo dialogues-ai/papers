@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/sentiment-display",
+  "id": "guides/sentiment-display",
+  "title": "Sentiment Display",
+  "description": "",
+  "source": "@site/docs/guides/sentiment-display.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/sentiment-display",
+  "permalink": "/docs/guides/sentiment-display",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/sentiment-display.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Habit Display",
+    "permalink": "/docs/guides/habit-display"
+  },
+  "next": {
+    "title": "Advanced",
+    "permalink": "/docs/category/advanced"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/stats/habit-display",
+  "id": "guides/stats/habit-display",
+  "title": "Habit Display",
+  "description": "video",
+  "source": "@site/docs/guides/stats/habit-display.md",
+  "sourceDirName": "guides/stats",
+  "slug": "/guides/stats/habit-display",
+  "permalink": "/grow-docs/docs/guides/stats/habit-display",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/stats/habit-display.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Time Tunnel",
+    "permalink": "/grow-docs/docs/guides/stats/time-tunnel"
+  },
+  "next": {
+    "title": "Sentiment Display",
+    "permalink": "/grow-docs/docs/guides/stats/sentiment-display"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tips copy",
+  "id": "tips copy",
+  "title": "Tips & Tricks",
+  "description": "",
+  "source": "@site/docs/tips copy.md",
+  "sourceDirName": ".",
+  "slug": "/tips copy",
+  "permalink": "/docs/tips copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tips copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Weekly Notes",
+    "permalink": "/docs/guides/weekly-notes"
+  },
+  "next": {
+    "title": "Tips & Tricks",
+    "permalink": "/docs/tips"
+  }
+}

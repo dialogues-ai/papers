@@ -1,0 +1,16 @@
+{
+  "title": "Advanced",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/advanced",
+  "permalink": "/docs/category/advanced",
+  "navigation": {
+    "previous": {
+      "title": "Sentiment Display",
+      "permalink": "/docs/guides/stats/sentiment-display"
+    },
+    "next": {
+      "title": "Forms",
+      "permalink": "/docs/advanced/forms"
+    }
+  }
+}

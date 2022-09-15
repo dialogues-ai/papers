@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/entries/add-forms-to-entries copy",
+  "id": "guides/entries/add-forms-to-entries copy",
+  "title": "Adding Forms",
+  "description": "",
+  "source": "@site/docs/guides/entries/add-forms-to-entries copy.md",
+  "sourceDirName": "guides/entries",
+  "slug": "/guides/entries/add-forms-to-entries copy",
+  "permalink": "/docs/guides/entries/add-forms-to-entries copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/entries/add-forms-to-entries copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entry Accounting",
+    "permalink": "/docs/guides/entries/entry-accounting"
+  },
+  "next": {
+    "title": "Adding Forms",
+    "permalink": "/docs/guides/entries/add-forms-to-entries"
+  }
+}

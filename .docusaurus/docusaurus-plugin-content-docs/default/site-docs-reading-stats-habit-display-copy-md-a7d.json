@@ -1,0 +1,27 @@
+{
+  "unversionedId": "reading-stats/habit-display copy",
+  "id": "reading-stats/habit-display copy",
+  "title": "Habit Display",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/reading-stats/habit-display copy.md",
+  "sourceDirName": "reading-stats",
+  "slug": "/reading-stats/habit-display copy",
+  "permalink": "/docs/reading-stats/habit-display copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reading-stats/habit-display copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Time Tunnel",
+    "permalink": "/docs/reading-stats/time-tunnel"
+  },
+  "next": {
+    "title": "Habit Display",
+    "permalink": "/docs/reading-stats/habit-display"
+  }
+}

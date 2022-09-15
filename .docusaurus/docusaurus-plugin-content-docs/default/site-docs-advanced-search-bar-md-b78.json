@@ -1,0 +1,27 @@
+{
+  "unversionedId": "advanced/search-bar",
+  "id": "advanced/search-bar",
+  "title": "Search",
+  "description": "",
+  "source": "@site/docs/advanced/search-bar.md",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/search-bar",
+  "permalink": "/docs/advanced/search-bar",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/advanced/search-bar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "New Page",
+    "permalink": "/docs/advanced/new-page"
+  },
+  "next": {
+    "title": "Tips & Tricks",
+    "permalink": "/docs/tips"
+  }
+}

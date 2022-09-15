@@ -1,0 +1,23 @@
+{
+  "unversionedId": "security",
+  "id": "security",
+  "title": "Privacy",
+  "description": "",
+  "source": "@site/docs/security.md",
+  "sourceDirName": ".",
+  "slug": "/security",
+  "permalink": "/docs/security",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/security.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Common Errors",
+    "permalink": "/docs/frequent-errors"
+  }
+}

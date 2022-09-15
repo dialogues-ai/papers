@@ -1,0 +1,24 @@
+{
+  "unversionedId": "setup/Untitled",
+  "id": "setup/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/docs/setup/Untitled.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/Untitled",
+  "permalink": "/docs/setup/Untitled",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/setup/Untitled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup",
+    "permalink": "/docs/category/setup"
+  },
+  "next": {
+    "title": "Tips",
+    "permalink": "/docs/Tips"
+  }
+}

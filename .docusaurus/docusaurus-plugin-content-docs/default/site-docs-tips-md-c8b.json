@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tips",
+  "id": "tips",
+  "title": "Tips & Tricks",
+  "description": "1. Grow is best used on a computer with a screen and mouse.",
+  "source": "@site/docs/tips.md",
+  "sourceDirName": ".",
+  "slug": "/tips",
+  "permalink": "/grow-docs/docs/tips",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/tips.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Design Your Snapshots",
+    "permalink": "/grow-docs/docs/guides/improve your organization/designing-snapshots"
+  },
+  "next": {
+    "title": "Known Bugs",
+    "permalink": "/grow-docs/docs/frequent-errors"
+  }
+}

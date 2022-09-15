@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup/make-post copy",
+  "id": "setup/make-post copy",
+  "title": "Make Post",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/setup/make-post copy.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/make-post copy",
+  "permalink": "/docs/setup/make-post copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/setup/make-post copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Account",
+    "permalink": "/docs/setup/create-account"
+  },
+  "next": {
+    "title": "Make Post",
+    "permalink": "/docs/setup/make-post"
+  }
+}

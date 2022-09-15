@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup/create-snapshot",
+  "id": "setup/create-snapshot",
+  "title": "Create Snapshot",
+  "description": "You must have created a graph in order to start making snapshots.",
+  "source": "@site/docs/setup/create-snapshot.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/create-snapshot",
+  "permalink": "/grow-docs/docs/setup/create-snapshot",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/setup/create-snapshot.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Graph",
+    "permalink": "/grow-docs/docs/setup/create-graph"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/grow-docs/docs/category/guides"
+  }
+}

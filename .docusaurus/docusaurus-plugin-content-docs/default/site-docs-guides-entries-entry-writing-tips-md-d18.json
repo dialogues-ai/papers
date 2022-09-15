@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/entries/entry-writing-tips",
+  "id": "guides/entries/entry-writing-tips",
+  "title": "Writing Good Entries",
+  "description": "",
+  "source": "@site/docs/guides/entries/entry-writing-tips.md",
+  "sourceDirName": "guides/entries",
+  "slug": "/guides/entries/entry-writing-tips",
+  "permalink": "/grow-docs/docs/guides/entries/entry-writing-tips",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/entries/entry-writing-tips.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding Forms",
+    "permalink": "/grow-docs/docs/guides/entries/add-forms-to-entries"
+  },
+  "next": {
+    "title": "Forms",
+    "permalink": "/grow-docs/docs/guides/forms"
+  }
+}

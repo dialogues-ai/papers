@@ -1,0 +1,27 @@
+{
+  "unversionedId": "reading-stats/time-tunnel",
+  "id": "reading-stats/time-tunnel",
+  "title": "Time Tunnel",
+  "description": "",
+  "source": "@site/docs/reading-stats/time-tunnel.md",
+  "sourceDirName": "reading-stats",
+  "slug": "/reading-stats/time-tunnel",
+  "permalink": "/docs/reading-stats/time-tunnel",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reading-stats/time-tunnel.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Radar Chart",
+    "permalink": "/docs/reading-stats/radar-chart"
+  },
+  "next": {
+    "title": "Habit Display",
+    "permalink": "/docs/reading-stats/habit-display"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/grow-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/grow-docs/docs",
+          "mainDocId": "introduction/welcome",
+          "docs": [
+            {
+              "id": "frequent-errors",
+              "path": "/grow-docs/docs/frequent-errors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/entries/add-forms-to-entries",
+              "path": "/grow-docs/docs/guides/entries/add-forms-to-entries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/entries/entry-accounting",
+              "path": "/grow-docs/docs/guides/entries/entry-accounting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/entries/entry-writing-tips",
+              "path": "/grow-docs/docs/guides/entries/entry-writing-tips",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/entries/writing-entries",
+              "path": "/grow-docs/docs/guides/entries/writing-entries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/forms",
+              "path": "/grow-docs/docs/guides/forms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/improve your organization/designing-snapshots",
+              "path": "/grow-docs/docs/guides/improve your organization/designing-snapshots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/new-page",
+              "path": "/grow-docs/docs/guides/new-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/nodes",
+              "path": "/grow-docs/docs/guides/nodes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/search-bar",
+              "path": "/grow-docs/docs/guides/search-bar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/stats/habit-display",
+              "path": "/grow-docs/docs/guides/stats/habit-display",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/stats/radar-chart",
+              "path": "/grow-docs/docs/guides/stats/radar-chart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/stats/sentiment-display",
+              "path": "/grow-docs/docs/guides/stats/sentiment-display",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/stats/time-tunnel",
+              "path": "/grow-docs/docs/guides/stats/time-tunnel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/unity-clock-app",
+              "path": "/grow-docs/docs/guides/unity-clock-app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/weekly-notes",
+              "path": "/grow-docs/docs/guides/weekly-notes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/download_grow",
+              "path": "/grow-docs/docs/introduction/download_grow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/welcome",
+              "path": "/grow-docs/docs/introduction/welcome",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "privacy",
+              "path": "/grow-docs/docs/privacy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup/create-account",
+              "path": "/grow-docs/docs/setup/create-account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup/create-graph",
+              "path": "/grow-docs/docs/setup/create-graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup/create-post",
+              "path": "/grow-docs/docs/setup/create-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup/create-snapshot",
+              "path": "/grow-docs/docs/setup/create-snapshot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tips",
+              "path": "/grow-docs/docs/tips",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/guides",
+              "path": "/grow-docs/docs/category/guides",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/entries",
+              "path": "/grow-docs/docs/category/entries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/stats",
+              "path": "/grow-docs/docs/category/stats",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/organizational-tips",
+              "path": "/grow-docs/docs/category/organizational-tips",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/grow-docs/docs/introduction/welcome",
+                "label": "introduction/welcome"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

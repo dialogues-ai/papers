@@ -1,0 +1,16 @@
+{
+  "title": "Your Stats",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/your-stats",
+  "permalink": "/docs/category/your-stats",
+  "navigation": {
+    "previous": {
+      "title": "Create Snapshot",
+      "permalink": "/docs/setup/create-snapshot"
+    },
+    "next": {
+      "title": "Radar Chart",
+      "permalink": "/docs/reading-stats/radar-chart"
+    }
+  }
+}

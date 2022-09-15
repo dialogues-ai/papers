@@ -1,0 +1,27 @@
+{
+  "unversionedId": "intro copy",
+  "id": "intro copy",
+  "title": "Grow Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/intro copy.md",
+  "sourceDirName": ".",
+  "slug": "/intro copy",
+  "permalink": "/docs/intro copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Grow Intro",
+    "permalink": "/docs/intro"
+  }
+}

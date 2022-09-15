@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/entries/add-forms-to-entries",
+  "id": "guides/entries/add-forms-to-entries",
+  "title": "Adding Forms",
+  "description": "",
+  "source": "@site/docs/guides/entries/add-forms-to-entries.md",
+  "sourceDirName": "guides/entries",
+  "slug": "/guides/entries/add-forms-to-entries",
+  "permalink": "/grow-docs/docs/guides/entries/add-forms-to-entries",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/entries/add-forms-to-entries.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entry Accounting",
+    "permalink": "/grow-docs/docs/guides/entries/entry-accounting"
+  },
+  "next": {
+    "title": "Writing Good Entries",
+    "permalink": "/grow-docs/docs/guides/entries/entry-writing-tips"
+  }
+}

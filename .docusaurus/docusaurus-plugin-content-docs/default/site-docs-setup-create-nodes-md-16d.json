@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup/create-nodes",
+  "id": "setup/create-nodes",
+  "title": "Create Nodes",
+  "description": "There are three ways to create nodes",
+  "source": "@site/docs/setup/create-nodes.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/create-nodes",
+  "permalink": "/docs/setup/create-nodes",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/setup/create-nodes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Graph",
+    "permalink": "/docs/setup/create-graph"
+  },
+  "next": {
+    "title": "Create Snapshot",
+    "permalink": "/docs/setup/create-snapshot"
+  }
+}

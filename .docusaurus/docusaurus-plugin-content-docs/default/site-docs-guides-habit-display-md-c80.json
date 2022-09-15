@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/habit-display",
+  "id": "guides/habit-display",
+  "title": "Habit Display",
+  "description": "",
+  "source": "@site/docs/guides/habit-display.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/habit-display",
+  "permalink": "/docs/guides/habit-display",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/habit-display.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Time Tunnel",
+    "permalink": "/docs/guides/time-tunnel"
+  },
+  "next": {
+    "title": "Sentiment Display",
+    "permalink": "/docs/guides/sentiment-display"
+  }
+}

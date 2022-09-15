@@ -1,0 +1,27 @@
+{
+  "unversionedId": "advanced/forms",
+  "id": "advanced/forms",
+  "title": "Forms",
+  "description": "",
+  "source": "@site/docs/advanced/forms.md",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/forms",
+  "permalink": "/docs/advanced/forms",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/advanced/forms.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced",
+    "permalink": "/docs/category/advanced"
+  },
+  "next": {
+    "title": "New Page",
+    "permalink": "/docs/advanced/new-page"
+  }
+}

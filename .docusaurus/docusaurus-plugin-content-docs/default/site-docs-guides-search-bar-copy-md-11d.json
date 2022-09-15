@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/search-bar copy",
+  "id": "guides/search-bar copy",
+  "title": "Search",
+  "description": "",
+  "source": "@site/docs/guides/search-bar copy.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/search-bar copy",
+  "permalink": "/docs/guides/search-bar copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/search-bar copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Fesh Page",
+    "permalink": "/docs/guides/new-page"
+  },
+  "next": {
+    "title": "Search",
+    "permalink": "/docs/guides/search-bar"
+  }
+}

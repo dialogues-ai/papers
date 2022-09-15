@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/stats/time-tunnel",
+  "id": "guides/stats/time-tunnel",
+  "title": "Time Tunnel",
+  "description": "",
+  "source": "@site/docs/guides/stats/time-tunnel.md",
+  "sourceDirName": "guides/stats",
+  "slug": "/guides/stats/time-tunnel",
+  "permalink": "/grow-docs/docs/guides/stats/time-tunnel",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/stats/time-tunnel.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Radar Chart",
+    "permalink": "/grow-docs/docs/guides/stats/radar-chart"
+  },
+  "next": {
+    "title": "Habit Display",
+    "permalink": "/grow-docs/docs/guides/stats/habit-display"
+  }
+}

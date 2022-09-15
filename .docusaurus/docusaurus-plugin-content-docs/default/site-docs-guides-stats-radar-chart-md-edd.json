@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/stats/radar-chart",
+  "id": "guides/stats/radar-chart",
+  "title": "Radar Chart",
+  "description": "",
+  "source": "@site/docs/guides/stats/radar-chart.md",
+  "sourceDirName": "guides/stats",
+  "slug": "/guides/stats/radar-chart",
+  "permalink": "/grow-docs/docs/guides/stats/radar-chart",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/stats/radar-chart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stats",
+    "permalink": "/grow-docs/docs/category/stats"
+  },
+  "next": {
+    "title": "Time Tunnel",
+    "permalink": "/grow-docs/docs/guides/stats/time-tunnel"
+  }
+}

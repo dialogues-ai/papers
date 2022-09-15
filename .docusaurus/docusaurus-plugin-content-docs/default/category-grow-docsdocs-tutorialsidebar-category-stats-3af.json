@@ -1,0 +1,16 @@
+{
+  "title": "Stats",
+  "description": "Let's examine your entries with some charts!",
+  "slug": "/category/stats",
+  "permalink": "/grow-docs/docs/category/stats",
+  "navigation": {
+    "previous": {
+      "title": "Nodes",
+      "permalink": "/grow-docs/docs/guides/nodes"
+    },
+    "next": {
+      "title": "Radar Chart",
+      "permalink": "/grow-docs/docs/guides/stats/radar-chart"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/new-page",
+  "id": "guides/new-page",
+  "title": "Create Fresh Page",
+  "description": "",
+  "source": "@site/docs/guides/new-page.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/new-page",
+  "permalink": "/grow-docs/docs/guides/new-page",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/new-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentiment Display",
+    "permalink": "/grow-docs/docs/guides/stats/sentiment-display"
+  },
+  "next": {
+    "title": "Search",
+    "permalink": "/grow-docs/docs/guides/search-bar"
+  }
+}

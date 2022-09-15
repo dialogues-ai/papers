@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/unity-clock-app",
+  "id": "guides/unity-clock-app",
+  "title": "Clock App (Unity)",
+  "description": "",
+  "source": "@site/docs/guides/unity-clock-app.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/unity-clock-app",
+  "permalink": "/grow-docs/docs/guides/unity-clock-app",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/unity-clock-app.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Weekly Notes",
+    "permalink": "/grow-docs/docs/guides/weekly-notes"
+  },
+  "next": {
+    "title": "Organizational Tips",
+    "permalink": "/grow-docs/docs/category/organizational-tips"
+  }
+}

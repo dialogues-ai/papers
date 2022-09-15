@@ -1,0 +1,27 @@
+{
+  "unversionedId": "advanced/create-account",
+  "id": "advanced/create-account",
+  "title": "Create Account",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/advanced/create-account.md",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/create-account",
+  "permalink": "/docs/advanced/create-account",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/advanced/create-account.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup",
+    "permalink": "/docs/category/setup"
+  },
+  "next": {
+    "title": "Setup",
+    "permalink": "/docs/category/setup-1"
+  }
+}

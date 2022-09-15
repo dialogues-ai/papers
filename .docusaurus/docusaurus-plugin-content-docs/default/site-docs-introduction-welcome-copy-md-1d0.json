@@ -1,0 +1,23 @@
+{
+  "unversionedId": "introduction/welcome copy",
+  "id": "introduction/welcome copy",
+  "title": "Welcome to Grow",
+  "description": "Hi! I hope this works with you in your life.",
+  "source": "@site/docs/introduction/welcome copy.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/welcome copy",
+  "permalink": "/docs/introduction/welcome copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/welcome copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Welcome to Grow",
+    "permalink": "/docs/introduction/welcome"
+  }
+}

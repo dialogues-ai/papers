@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/stats/sentiment-display",
+  "id": "guides/stats/sentiment-display",
+  "title": "Sentiment Display",
+  "description": "",
+  "source": "@site/docs/guides/stats/sentiment-display.md",
+  "sourceDirName": "guides/stats",
+  "slug": "/guides/stats/sentiment-display",
+  "permalink": "/grow-docs/docs/guides/stats/sentiment-display",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/stats/sentiment-display.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Habit Display",
+    "permalink": "/grow-docs/docs/guides/stats/habit-display"
+  },
+  "next": {
+    "title": "Create Fresh Page",
+    "permalink": "/grow-docs/docs/guides/new-page"
+  }
+}

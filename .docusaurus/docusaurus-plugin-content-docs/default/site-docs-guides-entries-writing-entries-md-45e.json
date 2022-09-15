@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/entries/writing-entries",
+  "id": "guides/entries/writing-entries",
+  "title": "Make an Entry",
+  "description": "Category, Accomplished, time start, and time end.",
+  "source": "@site/docs/guides/entries/writing-entries.md",
+  "sourceDirName": "guides/entries",
+  "slug": "/guides/entries/writing-entries",
+  "permalink": "/grow-docs/docs/guides/entries/writing-entries",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/entries/writing-entries.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entries",
+    "permalink": "/grow-docs/docs/category/entries"
+  },
+  "next": {
+    "title": "Entry Accounting",
+    "permalink": "/grow-docs/docs/guides/entries/entry-accounting"
+  }
+}

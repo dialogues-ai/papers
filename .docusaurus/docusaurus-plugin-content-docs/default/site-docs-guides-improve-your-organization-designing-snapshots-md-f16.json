@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/improve your organization/designing-snapshots",
+  "id": "guides/improve your organization/designing-snapshots",
+  "title": "How to Design Your Snapshots",
+  "description": "Your guide to building better snapshots is coming soon.",
+  "source": "@site/docs/guides/improve your organization/designing-snapshots.md",
+  "sourceDirName": "guides/improve your organization",
+  "slug": "/guides/improve your organization/designing-snapshots",
+  "permalink": "/grow-docs/docs/guides/improve your organization/designing-snapshots",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/improve your organization/designing-snapshots.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Organizational Tips",
+    "permalink": "/grow-docs/docs/category/organizational-tips"
+  },
+  "next": {
+    "title": "Tips & Tricks",
+    "permalink": "/grow-docs/docs/tips"
+  }
+}

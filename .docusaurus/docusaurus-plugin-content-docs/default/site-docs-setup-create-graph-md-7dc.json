@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup/create-graph",
+  "id": "setup/create-graph",
+  "title": "Create Graph",
+  "description": "The graph and snapshot are the last steps to setting up your journal. And the graph takes just a little planning. Together we'll create a simple graph, and you can add to it, and start a new one as you get a grasp of it.",
+  "source": "@site/docs/setup/create-graph.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/create-graph",
+  "permalink": "/grow-docs/docs/setup/create-graph",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/setup/create-graph.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Entry",
+    "permalink": "/grow-docs/docs/setup/create-post"
+  },
+  "next": {
+    "title": "Create Snapshot",
+    "permalink": "/grow-docs/docs/setup/create-snapshot"
+  }
+}

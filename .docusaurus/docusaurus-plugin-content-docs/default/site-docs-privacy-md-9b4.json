@@ -1,0 +1,23 @@
+{
+  "unversionedId": "privacy",
+  "id": "privacy",
+  "title": "Privacy",
+  "description": "For this beta version, we utilized Google Cloud Platform to deliver the product.",
+  "source": "@site/docs/privacy.md",
+  "sourceDirName": ".",
+  "slug": "/privacy",
+  "permalink": "/grow-docs/docs/privacy",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/privacy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Known Bugs",
+    "permalink": "/grow-docs/docs/frequent-errors"
+  }
+}

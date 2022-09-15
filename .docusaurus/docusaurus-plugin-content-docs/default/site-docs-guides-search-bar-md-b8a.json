@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/search-bar",
+  "id": "guides/search-bar",
+  "title": "Search",
+  "description": "",
+  "source": "@site/docs/guides/search-bar.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/search-bar",
+  "permalink": "/grow-docs/docs/guides/search-bar",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs/docs/guides/search-bar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Fresh Page",
+    "permalink": "/grow-docs/docs/guides/new-page"
+  },
+  "next": {
+    "title": "Weekly Notes",
+    "permalink": "/grow-docs/docs/guides/weekly-notes"
+  }
+}
