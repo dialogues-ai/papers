@@ -32,7 +32,7 @@ Eventually, making entries should be super easy, and can be made in seconds. How
 2. OR Type a category into the field, like "Journaling".
 3. If you typed a new category, be sure to Press `Enter` key!
 
-:::danger New Category
+:::info New Category
 Press `Enter` instead of Tab. Your category field should have a small icon to its left, as shown in the second image.
 <img src="/grow-docs/img/entry_screen/error_category_entry.png" width="180"/>
 <img src="/grow-docs/img/entry_screen/correct_category_entry.png" width="172"/>
@@ -127,4 +127,4 @@ Speed up your entries by adding only the required fields.
 Entries are not always made through the counter process, and are sometimes written after the fact. Not everything has a goal! So, the goal field is not neccessary. It is okay to leave that section blank, and to only write what you did.
 :::
 
-For more information on creating entries, what you can do with them, and how they get accounted in the rest of the application, see the [entries guide](../guides/entries/writing-entries).
+For more information on creating entries, what you can do with them, and how they get accounted in the rest of the application, see the entries guide. (Guide coming soon...)

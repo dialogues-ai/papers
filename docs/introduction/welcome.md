@@ -45,7 +45,7 @@ Finally, the primary purpose for this app was to document important information 
 
 You can state: what you made, how you felt, who you were with, where you were at, and tell the storeis of your life when they happen. With short entries every day, by the end of a year, you'll have a full year's worth of stories, and have created a very precise memoir-like thing with only a little effort each day.
 
-For more tips on what to include in your entries check out the [guide](../guides/entries/writing-entries).
+For more tips on what to include in your entries check out the guide. (Guide coming soon...)
 
 And, finally, all of this is meant for your eyes only. Your writing becomes honest and open when the outside world isn't looking over your shoulder. Then, from this state, it is easier to move in the direction best-suited to you.
 

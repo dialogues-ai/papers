@@ -47,421 +47,16 @@
               }
             },
             {
-              "unversionedId": "guides/entries/add-forms-to-entries",
-              "id": "guides/entries/add-forms-to-entries",
-              "title": "Adding Forms",
-              "description": "",
-              "source": "@site/docs/guides/entries/add-forms-to-entries.md",
-              "sourceDirName": "guides/entries",
-              "slug": "/guides/entries/add-forms-to-entries",
-              "permalink": "/grow-docs/docs/guides/entries/add-forms-to-entries",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/entries/add-forms-to-entries.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Entry Accounting",
-                "permalink": "/grow-docs/docs/guides/entries/entry-accounting"
-              },
-              "next": {
-                "title": "Writing Good Entries",
-                "permalink": "/grow-docs/docs/guides/entries/entry-writing-tips"
-              }
-            },
-            {
-              "unversionedId": "guides/entries/entry-accounting",
-              "id": "guides/entries/entry-accounting",
-              "title": "Entry Accounting",
-              "description": "",
-              "source": "@site/docs/guides/entries/entry-accounting.md",
-              "sourceDirName": "guides/entries",
-              "slug": "/guides/entries/entry-accounting",
-              "permalink": "/grow-docs/docs/guides/entries/entry-accounting",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/entries/entry-accounting.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Make an Entry",
-                "permalink": "/grow-docs/docs/guides/entries/writing-entries"
-              },
-              "next": {
-                "title": "Adding Forms",
-                "permalink": "/grow-docs/docs/guides/entries/add-forms-to-entries"
-              }
-            },
-            {
-              "unversionedId": "guides/entries/entry-writing-tips",
-              "id": "guides/entries/entry-writing-tips",
-              "title": "Writing Good Entries",
-              "description": "",
-              "source": "@site/docs/guides/entries/entry-writing-tips.md",
-              "sourceDirName": "guides/entries",
-              "slug": "/guides/entries/entry-writing-tips",
-              "permalink": "/grow-docs/docs/guides/entries/entry-writing-tips",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/entries/entry-writing-tips.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Adding Forms",
-                "permalink": "/grow-docs/docs/guides/entries/add-forms-to-entries"
-              },
-              "next": {
-                "title": "Forms",
-                "permalink": "/grow-docs/docs/guides/forms"
-              }
-            },
-            {
-              "unversionedId": "guides/entries/writing-entries",
-              "id": "guides/entries/writing-entries",
-              "title": "Make an Entry",
-              "description": "Category, Accomplished, time start, and time end.",
-              "source": "@site/docs/guides/entries/writing-entries.md",
-              "sourceDirName": "guides/entries",
-              "slug": "/guides/entries/writing-entries",
-              "permalink": "/grow-docs/docs/guides/entries/writing-entries",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/entries/writing-entries.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Entries",
-                "permalink": "/grow-docs/docs/category/entries"
-              },
-              "next": {
-                "title": "Entry Accounting",
-                "permalink": "/grow-docs/docs/guides/entries/entry-accounting"
-              }
-            },
-            {
-              "unversionedId": "guides/forms",
-              "id": "guides/forms",
-              "title": "Forms",
-              "description": "",
-              "source": "@site/docs/guides/forms.md",
-              "sourceDirName": "guides",
-              "slug": "/guides/forms",
-              "permalink": "/grow-docs/docs/guides/forms",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/forms.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Writing Good Entries",
-                "permalink": "/grow-docs/docs/guides/entries/entry-writing-tips"
-              },
-              "next": {
-                "title": "Nodes",
-                "permalink": "/grow-docs/docs/guides/nodes"
-              }
-            },
-            {
-              "unversionedId": "guides/improve your organization/designing-snapshots",
-              "id": "guides/improve your organization/designing-snapshots",
-              "title": "How to Design Your Snapshots",
-              "description": "Your guide to building better snapshots is coming soon.",
-              "source": "@site/docs/guides/improve your organization/designing-snapshots.md",
-              "sourceDirName": "guides/improve your organization",
-              "slug": "/guides/improve your organization/designing-snapshots",
-              "permalink": "/grow-docs/docs/guides/improve your organization/designing-snapshots",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/improve your organization/designing-snapshots.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Organizational Tips",
-                "permalink": "/grow-docs/docs/category/organizational-tips"
-              },
-              "next": {
-                "title": "Tips & Tricks",
-                "permalink": "/grow-docs/docs/tips"
-              }
-            },
-            {
-              "unversionedId": "guides/new-page",
-              "id": "guides/new-page",
-              "title": "Create Fresh Page",
-              "description": "",
-              "source": "@site/docs/guides/new-page.md",
-              "sourceDirName": "guides",
-              "slug": "/guides/new-page",
-              "permalink": "/grow-docs/docs/guides/new-page",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/new-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Sentiment Display",
-                "permalink": "/grow-docs/docs/guides/stats/sentiment-display"
-              },
-              "next": {
-                "title": "Search",
-                "permalink": "/grow-docs/docs/guides/search-bar"
-              }
-            },
-            {
-              "unversionedId": "guides/nodes",
-              "id": "guides/nodes",
-              "title": "Nodes",
-              "description": "There are three ways to create nodes",
-              "source": "@site/docs/guides/nodes.md",
-              "sourceDirName": "guides",
-              "slug": "/guides/nodes",
-              "permalink": "/grow-docs/docs/guides/nodes",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/nodes.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Forms",
-                "permalink": "/grow-docs/docs/guides/forms"
-              },
-              "next": {
-                "title": "Stats",
-                "permalink": "/grow-docs/docs/category/stats"
-              }
-            },
-            {
-              "unversionedId": "guides/search-bar",
-              "id": "guides/search-bar",
-              "title": "Search",
-              "description": "",
-              "source": "@site/docs/guides/search-bar.md",
-              "sourceDirName": "guides",
-              "slug": "/guides/search-bar",
-              "permalink": "/grow-docs/docs/guides/search-bar",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/search-bar.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create Fresh Page",
-                "permalink": "/grow-docs/docs/guides/new-page"
-              },
-              "next": {
-                "title": "Weekly Notes",
-                "permalink": "/grow-docs/docs/guides/weekly-notes"
-              }
-            },
-            {
-              "unversionedId": "guides/stats/habit-display",
-              "id": "guides/stats/habit-display",
-              "title": "Habit Display",
-              "description": "video",
-              "source": "@site/docs/guides/stats/habit-display.md",
-              "sourceDirName": "guides/stats",
-              "slug": "/guides/stats/habit-display",
-              "permalink": "/grow-docs/docs/guides/stats/habit-display",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/stats/habit-display.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Time Tunnel",
-                "permalink": "/grow-docs/docs/guides/stats/time-tunnel"
-              },
-              "next": {
-                "title": "Sentiment Display",
-                "permalink": "/grow-docs/docs/guides/stats/sentiment-display"
-              }
-            },
-            {
-              "unversionedId": "guides/stats/radar-chart",
-              "id": "guides/stats/radar-chart",
-              "title": "Radar Chart",
-              "description": "",
-              "source": "@site/docs/guides/stats/radar-chart.md",
-              "sourceDirName": "guides/stats",
-              "slug": "/guides/stats/radar-chart",
-              "permalink": "/grow-docs/docs/guides/stats/radar-chart",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/stats/radar-chart.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Stats",
-                "permalink": "/grow-docs/docs/category/stats"
-              },
-              "next": {
-                "title": "Time Tunnel",
-                "permalink": "/grow-docs/docs/guides/stats/time-tunnel"
-              }
-            },
-            {
-              "unversionedId": "guides/stats/sentiment-display",
-              "id": "guides/stats/sentiment-display",
-              "title": "Sentiment Display",
-              "description": "",
-              "source": "@site/docs/guides/stats/sentiment-display.md",
-              "sourceDirName": "guides/stats",
-              "slug": "/guides/stats/sentiment-display",
-              "permalink": "/grow-docs/docs/guides/stats/sentiment-display",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/stats/sentiment-display.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Habit Display",
-                "permalink": "/grow-docs/docs/guides/stats/habit-display"
-              },
-              "next": {
-                "title": "Create Fresh Page",
-                "permalink": "/grow-docs/docs/guides/new-page"
-              }
-            },
-            {
-              "unversionedId": "guides/stats/time-tunnel",
-              "id": "guides/stats/time-tunnel",
-              "title": "Time Tunnel",
-              "description": "",
-              "source": "@site/docs/guides/stats/time-tunnel.md",
-              "sourceDirName": "guides/stats",
-              "slug": "/guides/stats/time-tunnel",
-              "permalink": "/grow-docs/docs/guides/stats/time-tunnel",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/stats/time-tunnel.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Radar Chart",
-                "permalink": "/grow-docs/docs/guides/stats/radar-chart"
-              },
-              "next": {
-                "title": "Habit Display",
-                "permalink": "/grow-docs/docs/guides/stats/habit-display"
-              }
-            },
-            {
-              "unversionedId": "guides/unity-clock-app",
-              "id": "guides/unity-clock-app",
-              "title": "Clock App (Unity)",
-              "description": "",
-              "source": "@site/docs/guides/unity-clock-app.md",
-              "sourceDirName": "guides",
-              "slug": "/guides/unity-clock-app",
-              "permalink": "/grow-docs/docs/guides/unity-clock-app",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/unity-clock-app.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_position": 7
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Weekly Notes",
-                "permalink": "/grow-docs/docs/guides/weekly-notes"
-              },
-              "next": {
-                "title": "Organizational Tips",
-                "permalink": "/grow-docs/docs/category/organizational-tips"
-              }
-            },
-            {
-              "unversionedId": "guides/weekly-notes",
-              "id": "guides/weekly-notes",
-              "title": "Weekly Notes",
-              "description": "",
-              "source": "@site/docs/guides/weekly-notes.md",
-              "sourceDirName": "guides",
-              "slug": "/guides/weekly-notes",
-              "permalink": "/grow-docs/docs/guides/weekly-notes",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/guides/weekly-notes.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Search",
-                "permalink": "/grow-docs/docs/guides/search-bar"
-              },
-              "next": {
-                "title": "Clock App (Unity)",
-                "permalink": "/grow-docs/docs/guides/unity-clock-app"
-              }
-            },
-            {
-              "unversionedId": "introduction/download_grow",
-              "id": "introduction/download_grow",
-              "title": "Download Grow",
-              "description": "Web App",
-              "source": "@site/docs/introduction/download_grow.md",
+              "unversionedId": "introduction/access_grow",
+              "id": "introduction/access_grow",
+              "title": "Access Grow",
+              "description": "There are 3 ways to access Grow.",
+              "source": "@site/docs/introduction/access_grow.md",
               "sourceDirName": "introduction",
-              "slug": "/introduction/download_grow",
-              "permalink": "/grow-docs/docs/introduction/download_grow",
+              "slug": "/introduction/access_grow",
+              "permalink": "/grow-docs/docs/introduction/access_grow",
               "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/introduction/download_grow.md",
+              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/introduction/access_grow.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -497,8 +92,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Download Grow",
-                "permalink": "/grow-docs/docs/introduction/download_grow"
+                "title": "Access Grow",
+                "permalink": "/grow-docs/docs/introduction/access_grow"
               }
             },
             {
@@ -543,8 +138,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Download Grow",
-                "permalink": "/grow-docs/docs/introduction/download_grow"
+                "title": "Access Grow",
+                "permalink": "/grow-docs/docs/introduction/access_grow"
               },
               "next": {
                 "title": "Create Entry",
@@ -628,8 +223,8 @@
                 "permalink": "/grow-docs/docs/setup/create-graph"
               },
               "next": {
-                "title": "Guides",
-                "permalink": "/grow-docs/docs/category/guides"
+                "title": "Tips & Tricks",
+                "permalink": "/grow-docs/docs/tips"
               }
             },
             {
@@ -651,8 +246,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "How to Design Your Snapshots",
-                "permalink": "/grow-docs/docs/guides/improve your organization/designing-snapshots"
+                "title": "Create Snapshot",
+                "permalink": "/grow-docs/docs/setup/create-snapshot"
               },
               "next": {
                 "title": "Known Bugs",
@@ -675,7 +270,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "introduction/download_grow"
+                    "id": "introduction/access_grow"
                   }
                 ]
               },
@@ -702,122 +297,6 @@
                     "id": "setup/create-snapshot"
                   }
                 ]
-              },
-              {
-                "type": "category",
-                "label": "Guides",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "category",
-                    "label": "Entries",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "guides/entries/writing-entries"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "guides/entries/entry-accounting"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "guides/entries/add-forms-to-entries"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "guides/entries/entry-writing-tips"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "Let's examine your entries with some charts!",
-                      "slug": "/category/entries",
-                      "permalink": "/grow-docs/docs/category/entries"
-                    }
-                  },
-                  {
-                    "type": "doc",
-                    "id": "guides/forms"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "guides/nodes"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Stats",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "guides/stats/radar-chart"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "guides/stats/time-tunnel"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "guides/stats/habit-display"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "guides/stats/sentiment-display"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "Let's examine your entries with some charts!",
-                      "slug": "/category/stats",
-                      "permalink": "/grow-docs/docs/category/stats"
-                    }
-                  },
-                  {
-                    "type": "doc",
-                    "id": "guides/new-page"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "guides/search-bar"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "guides/weekly-notes"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "guides/unity-clock-app"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Organizational Tips",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "guides/improve your organization/designing-snapshots"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "Let's learn about different parts of Grow!",
-                      "slug": "/category/organizational-tips",
-                      "permalink": "/grow-docs/docs/category/organizational-tips"
-                    }
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "Let's learn about different parts of Grow!",
-                  "slug": "/category/guides",
-                  "permalink": "/grow-docs/docs/category/guides"
-                }
               },
               {
                 "type": "doc",

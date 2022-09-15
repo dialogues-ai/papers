@@ -29,7 +29,7 @@ We will start with the graph we made in the last section.
 
 1. Tap the **+** on the left hand side of the screen
 
-2. Give your snapshot a name. We'll call this one `Life`. I like to have my primary snapshot encompass the entire graph. See tips on how to design your snapshots with the [snapshot guide](../guides/improve%20your%20organization/designing-snapshots).
+2. Give your snapshot a name. We'll call this one `Life`. I like to have my primary snapshot encompass the entire graph. See tips on how to design your snapshots with the snapshot guide. (Guide coming soon...)
 
 <img src="/grow-docs/img/snapshot/new_snapshot_pop_up.png" width="220"/>
 
@@ -107,4 +107,4 @@ In this graph we have made, we will get to go to our life, and see how much time
 
 Now, any time we make an entry from the main menu, all of the counters will know to include the activity of that entry in its respective group in the snapshot. Ultimate Frisbee will get counted as Personal time. Homework will classified as Career time.
 
-You can create snapshots to get a detailed chart for any of these activities. For more information on how to use Snapshots, check out the in-depth [snapshot guide](../guides/improve%20your%20organization/designing-snapshots).
+You can create snapshots to get a detailed chart for any of these activities. For more information on how to use Snapshots, check out the in-depth snapshot guide. (Guide coming soon...)

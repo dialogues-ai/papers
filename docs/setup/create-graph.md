@@ -52,7 +52,7 @@ We need to add some nodes to the graph.
 
 :::info No nodes appear
 
-If no nodes are appearing in your list when you click the menu button. Hard refresh your application. (Hold shift and press the broswer refresh button.) On startup, sometimes, these nodes aren't downloaded, and the app needs to restart to grab them. So, restart your application, and come back to this page. You should see the first nodes here.
+If no nodes are appearing in your list when you click the menu button. Hard refresh your application. (Hold shift and press the broswer refresh button.) Sometimes, when a new user account is just created, these nodes aren't downloaded/created yet, and the app needs to restart to grab them. So, restart your application, and come back to this page. You should see the first nodes here.
 :::
 
 3. Tap the ` + ` next to the nodes to add them to the graph. Go ahead and add them all.
