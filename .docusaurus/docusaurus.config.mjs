@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/plated/developer/grow_docs/sidebars.js",
-          "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/master/grow_docs"
+          "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/"
         },
         "theme": {
           "customCss": "/Users/plated/developer/grow_docs/src/css/custom.css"

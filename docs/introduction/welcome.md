@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Welcome to Grow!  
-<img src="/img/armed-image.png" width="90" align="right"/>
+<img src="/grow-docs/img/armed-image.png" width="90" align="right"/>
 
 Hi! Welcome to Grow! This can be a very cool tool for you to use in your life. It should feel like the Robin to your Batman. As is, you'll get to record your life down in a journal, which has always been thought of as a good activity, but like flossing, it just doesn't get done. Hopefully, we can make it a little more interesting, and valuable!, than regular journaling by adding some cool features to it, to give you insights into your life. Our job is not to tell you who you are. Our job is to reflect back what you did and said, highlight your values, and let you see how you are becoming.
 

@@ -19,9 +19,7 @@ Eventually, making entries should be super easy, and can be made in seconds. How
 ### Open Sheet 
 1. `Click Post`
 
-<!-- <img src="/img/entry_screen/starter_entry_screens/mini_form_post_highlight.png" width="410" align="middle"/> -->
-
-<img src="/img/entry_screen/starter_entry_screens/mini_form_post_highlight.png" style={{maxWidth: "410px"}} />
+<img src="/grow-docs/img/entry_screen/starter_entry_screens/mini_form_post_highlight.png" width="410" />
 
 ### Fill Out Sheet
 
@@ -36,8 +34,8 @@ Eventually, making entries should be super easy, and can be made in seconds. How
 
 :::danger New Category
 Press `Enter` instead of Tab. Your category field should have a small icon to its left, as shown in the second image.
-<img src="/img/entry_screen/error_category_entry.png" style={{maxWidth: "180px"}}/>
-<img src="/img/entry_screen/correct_category_entry.png" width="172"/>
+<img src="/grow-docs/img/entry_screen/error_category_entry.png" width="180"/>
+<img src="/grow-docs/img/entry_screen/correct_category_entry.png" width="172"/>
 
 If the category is left as it is in the first image, the entry sheet will not submit.
 :::
@@ -54,7 +52,7 @@ Now:
 3. When you click into the field, a box popups. 
 4. You can type in your own time, like `8:30 AM` or click `Now` from the box.
 
-<img src="/img/entry_screen/end_time_popup.png" width="180"/>
+<img src="/grow-docs/img/entry_screen/end_time_popup.png" width="180"/>
 
 :::tip Round Durations
 To simplify durations, you can round to the nearest 5 minutes, so there is a rounded option from the drop down menu that appears when the field is selected.
@@ -93,7 +91,7 @@ No location data is recorded from this application. As writers, we are far more 
 
 The locations you type into this field can be accessed through a dropdown menu later to help you recall what names you gave places. Also, just to make the typing easier.
 
-<img src="/img/entry_screen/locations_dropdown.png" width="480"/>
+<img src="/grow-docs/img/entry_screen/locations_dropdown.png" width="480"/>
 
 
 
@@ -105,7 +103,7 @@ Hit `Submit`!
 
 If you did type in your own category for what you were doing, a pop up will appear that looks like this:
 
-<img src="/img/entry_screen/new_category_created_on_submit.png" width="480"/>
+<img src="/grow-docs/img/entry_screen/new_category_created_on_submit.png" width="480"/>
 
 Press `Continue` to create the new activity.
 

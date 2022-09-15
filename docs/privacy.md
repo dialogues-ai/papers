@@ -17,7 +17,7 @@ All entries are hosted on a [Firebase Database](https://firebase.google.com/docs
 None of the data is being sold, or given, to anybody. Our relationship is solely through direct relationships with the user. Third parties have no purpose in this interaction.
 
 Data on the backend is encrypted, so, granted anybody has access, it cannot be easily read.
-<img src="/img/privacy/firebase_encrypted.png" width="400" align="middle"/>
+<img src="/grow-docs/img/privacy/firebase_encrypted.png" width="400" align="middle"/>
 
 Noone from Grow or any organization reads your journal entries.
 

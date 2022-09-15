@@ -23,7 +23,7 @@ Let's build one together.
 
 We will start with the graph we made in the last section.
 
-<img src="/img/graph_screen/final_graph_from_tutorial_create_snap_highlight.png" width="480"/>
+<img src="/grow-docs/img/graph_screen/final_graph_from_tutorial_create_snap_highlight.png" width="480"/>
 
 ## 1. Make the Snapshot
 
@@ -31,7 +31,7 @@ We will start with the graph we made in the last section.
 
 2. Give your snapshot a name. We'll call this one `Life`. I like to have my primary snapshot encompass the entire graph. See tips on how to design your snapshots with the [snapshot guide](../guides/improve%20your%20organization/designing-snapshots).
 
-<img src="/img/snapshot/new_snapshot_pop_up.png" width="220"/>
+<img src="/grow-docs/img/snapshot/new_snapshot_pop_up.png" width="220"/>
 
 
 3. Press `Enter`.
@@ -42,14 +42,14 @@ A couple items will appear at the bottom of the screen which looks like this.
 First, there is an icon that says you are viewing, your `Life` snapshot. You can press the **`X`** on it to close it.  
 Second, there is a **`+`** button in the middle.
 
-<img src="/img/snapshot/add_group.png" width="290"/>
+<img src="/grow-docs/img/snapshot/add_group.png" width="290"/>
 
 ## 2. Create 2 Groups
 
 1. Press **`+`** button to make your groups.
 2. Let's make two of them. 
 
-<img src="/img/snapshot/two_blank_groups.png" width="390"/>
+<img src="/grow-docs/img/snapshot/two_blank_groups.png" width="390"/>
 
 3. Name them:
     1. Personal
@@ -57,26 +57,26 @@ Second, there is a **`+`** button in the middle.
 
 4. Drag the whole `Personal` branch on to the personal circle.
 
-<img src="/img/snapshot/drag_and_drop_group.png" width="490"/>
+<img src="/grow-docs/img/snapshot/drag_and_drop_group.png" width="490"/>
 
 5. Do the same with `Career`.
 
-<img src="/img/snapshot/created_groups.png" width="490"/>
+<img src="/grow-docs/img/snapshot/created_groups.png" width="490"/>
 
 6. Change their colors by clicking the settings icon, and then, `Pick Color`. After you select the color from the color wheel, be sure to press `Set Color`
 
-<img src="/img/snapshot/change_snap_color.png" width="340"/>
+<img src="/grow-docs/img/snapshot/change_snap_color.png" width="340"/>
 
 
 7. In the end, we get our final chart.
 
 
-<img src="/img/snapshot/final_snapshot.png" width="490"/>
+<img src="/grow-docs/img/snapshot/final_snapshot.png" width="490"/>
 
 ## 3. Press **Save*!!!***
 
 
-<img src="/img/graph_screen/save_highlighted.png" width="200"/>
+<img src="/grow-docs/img/graph_screen/save_highlighted.png" width="200"/>
 
 
 ## 4. Set this Snapshot as the primary.
@@ -85,7 +85,7 @@ Second, there is a **`+`** button in the middle.
 2. A menu will appear.
 3. Tap the ⭐️ to set this as your primary snapshot.
 
-<img src="/img/snapshot/snapshot_on_hover.png" width="490"/>
+<img src="/grow-docs/img/snapshot/snapshot_on_hover.png" width="490"/>
 
 
 :::tip Snapshot Menu

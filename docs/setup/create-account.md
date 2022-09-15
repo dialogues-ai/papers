@@ -26,7 +26,7 @@ Upon Step 4, This will immediately log you in. There is no 2-factor authenticati
   
 You can change your password through the "Forgot Password" link on the sign in page. This works whether you forgot your password, or you just want to change it.
 
-<img src="/img/login_screen/forgot_password.png" width="360" align="middle"/>
+<img src="/grow-docs/img/login_screen/forgot_password.png" width="360" align="middle"/>
 
 This link will take you to a page to enter your email.
 Once you receive the email link, you can change your password.

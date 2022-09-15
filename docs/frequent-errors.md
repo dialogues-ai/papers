@@ -36,8 +36,8 @@ If you want to report something, please make a pull request, or report the issue
 May cause entry submission errors.
 
 Press `Enter` instead of Tab. Your category field should have a small icon to its left, as shown in the second image.
-<img src="/img/entry_screen/error_category_entry.png" width="180"/>
-<img src="/img/entry_screen/correct_category_entry.png" width="172"/>
+<img src="/grow-docs/img/entry_screen/error_category_entry.png" width="180"/>
+<img src="/grow-docs/img/entry_screen/correct_category_entry.png" width="172"/>
 
 If the category is left as it is in the first image, the entry sheet will not submit.
 

@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dialogues-ai/grow-docs/tree/gh-pages/',
+            'https://github.com/dialogues-ai/grow-docs/tree/main/',
         },
         // blog: {
         //   showReadingTime: true,

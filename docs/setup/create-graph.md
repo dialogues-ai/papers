@@ -24,17 +24,17 @@ The way you build this here, combined with the [snapshot](create-snapshot), goes
 First off, you need to start a fresh page. It's easy.
 1. Click the `Start your journey` page.
 
-<img src="/img/graph_screen/new_user_graph_screen.png" width="270"/>
+<img src="/grow-docs/img/graph_screen/new_user_graph_screen.png" width="270"/>
 
 2. Select `Blank` page.
 3. Give your new page a title. (You can edit this later.)
 
-<img src="/img/graph_screen/start_a_new_page_w_title.png" width="270"/>
+<img src="/grow-docs/img/graph_screen/start_a_new_page_w_title.png" width="270"/>
 
 
 4. Select `Turn the page` in the bottom right.
 
-<img src="/img/graph_screen/turn_page_selection.png" width="130"/>
+<img src="/grow-docs/img/graph_screen/turn_page_selection.png" width="130"/>
 
 5. Enjoy the animation! From old page to new!
 
@@ -48,7 +48,7 @@ We need to add some nodes to the graph.
 1. In the upper right hand of the screen, select the `Nodes List` box.
 2. Tap the hamburger menu icon to display all the available nodes.
 
-<img src="/img/graph_screen/nodes_list_menu_icon_highlight.png" width="145"/>
+<img src="/grow-docs/img/graph_screen/nodes_list_menu_icon_highlight.png" width="145"/>
 
 :::info No nodes appear
 
@@ -59,7 +59,7 @@ If no nodes are appearing in your list when you click the menu button. Hard refr
 
 Your initial graph ought to look similar to this.  
 You might have an added category from the [Create Entry](create-post) step included.
-<img src="/img/graph_screen/starter_nodes_graph_screen.png" width="530"/>
+<img src="/grow-docs/img/graph_screen/starter_nodes_graph_screen.png" width="530"/>
 
 
 
@@ -85,7 +85,7 @@ Type the names into the field and press `Enter` or tap the ` ➡ ` button.
 
 They should appear in the list.
 
-<img src="/img/graph_screen/added_nodes_to_list.png" width="210"/>
+<img src="/grow-docs/img/graph_screen/added_nodes_to_list.png" width="210"/>
 
 
 Bonus: Add
@@ -98,7 +98,7 @@ Tap the ` + ` next to all your new nodes to add them to the graph.
 
 You should get something like this.
 
-![/img/graph_screen/nodes_list_on_graph](/img/graph_screen/nodes_list_on_graph.png)
+![/grow-docs/img/graph_screen/nodes_list_on_graph](/img/graph_screen/nodes_list_on_graph.png)
 
 ## 4. Build a Graph
 
@@ -108,11 +108,11 @@ Simply drag and drop one node on to another. You can drag whole graphs onto othe
 
 Here's the final one.
 
-<img src="/img/graph_screen/final_graph_from_tutorial.png" width="480"/>
+<img src="/grow-docs/img/graph_screen/final_graph_from_tutorial.png" width="480"/>
 
 Delete unwanted node from the graph by pressing the ` - ` next to its name from the list, or by dragging and dropping it onto the trash button that appears while dragging.
 
-<img src="/img/graph_screen/remove_trash_target.png" width="200"/>
+<img src="/grow-docs/img/graph_screen/remove_trash_target.png" width="200"/>
 
 :::info Trash Target Doesn't Go Away
 
@@ -127,7 +127,7 @@ Sometimes the trash menu does not go away.
 
 Save your changes before you leave the page!!!
 
-<img src="/img/graph_screen/save_highlighted.png" width="200"/>
+<img src="/grow-docs/img/graph_screen/save_highlighted.png" width="200"/>
 
 
 ## Next Steps
