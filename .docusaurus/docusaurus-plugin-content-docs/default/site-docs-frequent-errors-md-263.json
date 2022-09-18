@@ -1,27 +1,23 @@
 {
   "unversionedId": "frequent-errors",
   "id": "frequent-errors",
-  "title": "Known Bugs",
-  "description": "1. Grow is best used on a computer with a screen and mouse.",
+  "title": "Element 3",
+  "description": "",
   "source": "@site/docs/frequent-errors.md",
   "sourceDirName": ".",
   "slug": "/frequent-errors",
-  "permalink": "/grow-docs/docs/frequent-errors",
+  "permalink": "/docs/docs/frequent-errors",
   "draft": false,
-  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/frequent-errors.md",
+  "editUrl": "https://github.com/nomic-io/docs/tree/main/docs/frequent-errors.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tips & Tricks",
-    "permalink": "/grow-docs/docs/tips"
-  },
-  "next": {
-    "title": "Privacy",
-    "permalink": "/grow-docs/docs/privacy"
+    "title": "Welcome to Nomic!",
+    "permalink": "/docs/docs/introduction/welcome"
   }
 }

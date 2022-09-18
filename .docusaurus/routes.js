@@ -3,73 +3,60 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/grow-docs/markdown-page',
-    component: ComponentCreator('/grow-docs/markdown-page', 'e0d'),
+    path: '/papers/__docusaurus/debug',
+    component: ComponentCreator('/papers/__docusaurus/debug', 'ab0'),
     exact: true
   },
   {
-    path: '/grow-docs/docs',
-    component: ComponentCreator('/grow-docs/docs', 'd1a'),
+    path: '/papers/__docusaurus/debug/config',
+    component: ComponentCreator('/papers/__docusaurus/debug/config', 'ad4'),
+    exact: true
+  },
+  {
+    path: '/papers/__docusaurus/debug/content',
+    component: ComponentCreator('/papers/__docusaurus/debug/content', 'b6b'),
+    exact: true
+  },
+  {
+    path: '/papers/__docusaurus/debug/globalData',
+    component: ComponentCreator('/papers/__docusaurus/debug/globalData', 'b59'),
+    exact: true
+  },
+  {
+    path: '/papers/__docusaurus/debug/metadata',
+    component: ComponentCreator('/papers/__docusaurus/debug/metadata', '9c5'),
+    exact: true
+  },
+  {
+    path: '/papers/__docusaurus/debug/registry',
+    component: ComponentCreator('/papers/__docusaurus/debug/registry', '65b'),
+    exact: true
+  },
+  {
+    path: '/papers/__docusaurus/debug/routes',
+    component: ComponentCreator('/papers/__docusaurus/debug/routes', 'f11'),
+    exact: true
+  },
+  {
+    path: '/papers/markdown-page',
+    component: ComponentCreator('/papers/markdown-page', 'f90'),
+    exact: true
+  },
+  {
+    path: '/papers/docs',
+    component: ComponentCreator('/papers/docs', '787'),
     routes: [
       {
-        path: '/grow-docs/docs/frequent-errors',
-        component: ComponentCreator('/grow-docs/docs/frequent-errors', '730'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/grow-docs/docs/introduction/access_grow',
-        component: ComponentCreator('/grow-docs/docs/introduction/access_grow', '572'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/grow-docs/docs/introduction/welcome',
-        component: ComponentCreator('/grow-docs/docs/introduction/welcome', '3bc'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/grow-docs/docs/privacy',
-        component: ComponentCreator('/grow-docs/docs/privacy', '359'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/grow-docs/docs/setup/create-account',
-        component: ComponentCreator('/grow-docs/docs/setup/create-account', '9e2'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/grow-docs/docs/setup/create-graph',
-        component: ComponentCreator('/grow-docs/docs/setup/create-graph', 'ecb'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/grow-docs/docs/setup/create-post',
-        component: ComponentCreator('/grow-docs/docs/setup/create-post', '21a'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/grow-docs/docs/setup/create-snapshot',
-        component: ComponentCreator('/grow-docs/docs/setup/create-snapshot', '832'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/grow-docs/docs/tips',
-        component: ComponentCreator('/grow-docs/docs/tips', 'db4'),
+        path: '/papers/docs/ai_regulation/gamemaking',
+        component: ComponentCreator('/papers/docs/ai_regulation/gamemaking', '0f3'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/grow-docs/',
-    component: ComponentCreator('/grow-docs/', '5d3'),
+    path: '/papers/',
+    component: ComponentCreator('/papers/', '818'),
     exact: true
   },
   {

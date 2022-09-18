@@ -8,5 +8,5 @@ import React from 'react';
 import {Redirect} from '@docusaurus/router';
 
 export default function Home() {
-  return <Redirect to="/grow-docs/docs/introduction/welcome" />;
+  return <Redirect to="/papers/docs/ai_regulation/gamemaking" />;
 }

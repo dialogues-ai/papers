@@ -1,58 +1,18 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/grow-docs/docs",
+      "path": "/papers/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/grow-docs/docs",
-          "mainDocId": "introduction/welcome",
+          "path": "/papers/docs",
+          "mainDocId": "ai_regulation/gamemaking",
           "docs": [
             {
-              "id": "frequent-errors",
-              "path": "/grow-docs/docs/frequent-errors",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "introduction/access_grow",
-              "path": "/grow-docs/docs/introduction/access_grow",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "introduction/welcome",
-              "path": "/grow-docs/docs/introduction/welcome",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "privacy",
-              "path": "/grow-docs/docs/privacy",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "setup/create-account",
-              "path": "/grow-docs/docs/setup/create-account",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "setup/create-graph",
-              "path": "/grow-docs/docs/setup/create-graph",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "setup/create-post",
-              "path": "/grow-docs/docs/setup/create-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "setup/create-snapshot",
-              "path": "/grow-docs/docs/setup/create-snapshot",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tips",
-              "path": "/grow-docs/docs/tips",
+              "id": "ai_regulation/gamemaking",
+              "path": "/papers/docs/ai_regulation/gamemaking",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -60,8 +20,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/grow-docs/docs/introduction/welcome",
-                "label": "introduction/welcome"
+                "path": "/papers/docs/ai_regulation/gamemaking",
+                "label": "ai_regulation/gamemaking"
               }
             }
           }

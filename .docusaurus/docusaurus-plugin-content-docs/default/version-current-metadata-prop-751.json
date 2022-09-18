@@ -11,129 +11,25 @@
     "tutorialSidebar": [
       {
         "type": "category",
-        "label": "Introduction",
+        "label": "AI Regulation",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Welcome to Grow!",
-            "href": "/grow-docs/docs/introduction/welcome",
-            "docId": "introduction/welcome"
-          },
-          {
-            "type": "link",
-            "label": "Access Grow",
-            "href": "/grow-docs/docs/introduction/access_grow",
-            "docId": "introduction/access_grow"
+            "label": "Game-Making",
+            "href": "/papers/docs/ai_regulation/gamemaking",
+            "docId": "ai_regulation/gamemaking"
           }
         ]
-      },
-      {
-        "type": "category",
-        "label": "New User Setup",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Create Account",
-            "href": "/grow-docs/docs/setup/create-account",
-            "docId": "setup/create-account"
-          },
-          {
-            "type": "link",
-            "label": "Create Entry",
-            "href": "/grow-docs/docs/setup/create-post",
-            "docId": "setup/create-post"
-          },
-          {
-            "type": "link",
-            "label": "Create Graph",
-            "href": "/grow-docs/docs/setup/create-graph",
-            "docId": "setup/create-graph"
-          },
-          {
-            "type": "link",
-            "label": "Create Snapshot",
-            "href": "/grow-docs/docs/setup/create-snapshot",
-            "docId": "setup/create-snapshot"
-          }
-        ]
-      },
-      {
-        "type": "link",
-        "label": "Tips & Tricks",
-        "href": "/grow-docs/docs/tips",
-        "docId": "tips"
-      },
-      {
-        "type": "link",
-        "label": "Known Bugs",
-        "href": "/grow-docs/docs/frequent-errors",
-        "docId": "frequent-errors"
-      },
-      {
-        "type": "link",
-        "label": "Privacy",
-        "href": "/grow-docs/docs/privacy",
-        "docId": "privacy"
       }
     ]
   },
   "docs": {
-    "frequent-errors": {
-      "id": "frequent-errors",
-      "title": "Known Bugs",
-      "description": "1. Grow is best used on a computer with a screen and mouse.",
-      "sidebar": "tutorialSidebar"
-    },
-    "introduction/access_grow": {
-      "id": "introduction/access_grow",
-      "title": "Access Grow",
-      "description": "There are 3 ways to access Grow.",
-      "sidebar": "tutorialSidebar"
-    },
-    "introduction/welcome": {
-      "id": "introduction/welcome",
-      "title": "Welcome to Grow!",
-      "description": "Hi! Welcome to Grow! This can be a very cool tool for you to use in your life. It should feel like the Robin to your Batman. As is, you'll get to record your life down in a journal, which has always been thought of as a good activity, but like flossing, it just doesn't get done. Hopefully, we can make it a little more interesting, and valuable!, than regular journaling by adding some cool features to it, to give you insights into your life. Our job is not to tell you who you are. Our job is to reflect back what you did and said, highlight your values, and let you see how you are becoming.",
-      "sidebar": "tutorialSidebar"
-    },
-    "privacy": {
-      "id": "privacy",
-      "title": "Privacy",
-      "description": "For this beta version, we utilized Google Cloud Platform to deliver the product.",
-      "sidebar": "tutorialSidebar"
-    },
-    "setup/create-account": {
-      "id": "setup/create-account",
-      "title": "Create Account",
-      "description": "Follow these steps to create your account.",
-      "sidebar": "tutorialSidebar"
-    },
-    "setup/create-graph": {
-      "id": "setup/create-graph",
-      "title": "Create Graph",
-      "description": "The graph and snapshot are the last steps to setting up your journal. And the graph takes just a little planning. Together we'll create a simple graph, and you can add to it, and start a new one as you get a grasp of it.",
-      "sidebar": "tutorialSidebar"
-    },
-    "setup/create-post": {
-      "id": "setup/create-post",
-      "title": "Create Entry",
-      "description": "Let's create an entry!",
-      "sidebar": "tutorialSidebar"
-    },
-    "setup/create-snapshot": {
-      "id": "setup/create-snapshot",
-      "title": "Create Snapshot",
-      "description": "You must have created a graph in order to start making snapshots.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tips": {
-      "id": "tips",
-      "title": "Tips & Tricks",
-      "description": "1. Grow is best used on a computer with a screen and mouse.",
+    "ai_regulation/gamemaking": {
+      "id": "ai_regulation/gamemaking",
+      "title": "Game-Making",
+      "description": "by jonny johnson",
       "sidebar": "tutorialSidebar"
     }
   }

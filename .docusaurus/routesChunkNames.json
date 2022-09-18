@@ -1,59 +1,70 @@
 {
-  "/grow-docs/markdown-page-e0d": {
-    "__comp": "1f391b9e",
+  "/papers/__docusaurus/debug-ab0": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "942133f9"
-    },
-    "content": "393be207"
+      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
+    }
   },
-  "/grow-docs/docs-d1a": {
-    "__comp": "1be78505",
+  "/papers/__docusaurus/debug/config-ad4": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "ff315dbb"
-    },
-    "versionMetadata": "935f2afb"
+      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
+    }
   },
-  "/grow-docs/docs/frequent-errors-730": {
-    "__comp": "17896441",
-    "content": "263addb9"
-  },
-  "/grow-docs/docs/introduction/access_grow-572": {
-    "__comp": "17896441",
-    "content": "21d83e9e"
-  },
-  "/grow-docs/docs/introduction/welcome-3bc": {
-    "__comp": "17896441",
-    "content": "c87665c5"
-  },
-  "/grow-docs/docs/privacy-359": {
-    "__comp": "17896441",
-    "content": "9b4185c1"
-  },
-  "/grow-docs/docs/setup/create-account-9e2": {
-    "__comp": "17896441",
-    "content": "d79c056c"
-  },
-  "/grow-docs/docs/setup/create-graph-ecb": {
-    "__comp": "17896441",
-    "content": "7dcc00b3"
-  },
-  "/grow-docs/docs/setup/create-post-21a": {
-    "__comp": "17896441",
-    "content": "c3291782"
-  },
-  "/grow-docs/docs/setup/create-snapshot-832": {
-    "__comp": "17896441",
-    "content": "5a46b02d"
-  },
-  "/grow-docs/docs/tips-db4": {
-    "__comp": "17896441",
-    "content": "c8b3d7d6"
-  },
-  "/grow-docs/-5d3": {
-    "__comp": "c4f5d8e4",
+  "/papers/__docusaurus/debug/content-b6b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "942133f9"
+      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
     },
-    "config": "5e9f5e1a"
+    "allContent": "allContent---papers-docusaurus-debug-content-246-743"
+  },
+  "/papers/__docusaurus/debug/globalData-b59": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
+    }
+  },
+  "/papers/__docusaurus/debug/metadata-9c5": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
+    }
+  },
+  "/papers/__docusaurus/debug/registry-65b": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
+    }
+  },
+  "/papers/__docusaurus/debug/routes-f11": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
+    }
+  },
+  "/papers/markdown-page-f90": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---papers-markdown-page-444-d32"
+    },
+    "content": "content---papers-markdown-page-393-1bc"
+  },
+  "/papers/docs-787": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---papers-docs-0-d-7-f41"
+    },
+    "versionMetadata": "versionMetadata---papers-docs-935-471"
+  },
+  "/papers/docs/ai_regulation/gamemaking-0f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---papers-docs-ai-regulation-gamemakingac-0-8d2"
+  },
+  "/papers/-818": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---papers-markdown-page-444-d32"
+    },
+    "config": "config---papers-5-e-9-f75"
   }
 }

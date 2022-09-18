@@ -6,18 +6,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Grow Docs',
-  tagline: 'an intelligent journal',
+  title: 'dialogues.ai',
+  tagline: 'making good language technologies',
   url: 'https://dialogues-ai.github.io',
-  baseUrl: '/grow-docs/',
+  baseUrl: '/papers/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.png',
-
+  favicon: 'img/DI+logo.png',
+  
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dialogues-ai', // Usually your GitHub org/user name.
-  projectName: 'grow-docs', // Usually your repo name.
+  projectName: 'papers', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dialogues-ai/grow-docs/tree/main/',
+            'https://github.com/nomic-io/docs/tree/main/',
         },
         // blog: {
         //   showReadingTime: true,
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: 'dark',
+        defaultMode: 'light',
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
@@ -67,16 +67,16 @@ const config = {
         title: '',
         hideOnScroll: true,
         logo: {
-          alt: 'Grow',
-          src: 'img/grow_light.png',
-		      srcDark: 'img/grow_dark.png',
+          alt: 'Dialogues',
+          src: 'img/dialogues_logo.png',
+		      srcDark: 'img/dialogues_logo_dark.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'introduction/welcome', 
+            docId: 'ai_regulation/gamemaking', 
             position: 'left',
-            label: 'User Manual',
+            label: 'Papers',
           },
 
         ],

@@ -4,15 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Grow Docs",
-  "tagline": "an intelligent journal",
+  "title": "dialogues.ai",
+  "tagline": "making good language technologies",
   "url": "https://dialogues-ai.github.io",
-  "baseUrl": "/grow-docs/",
+  "baseUrl": "/papers/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.png",
+  "favicon": "img/DI+logo.png",
   "organizationName": "dialogues-ai",
-  "projectName": "grow-docs",
+  "projectName": "papers",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -26,18 +26,18 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/plated/developer/grow_docs/sidebars.js",
-          "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/"
+          "sidebarPath": "/Users/plated/developer/jonny_blog_docusaurus/sidebars.js",
+          "editUrl": "https://github.com/nomic-io/docs/tree/main/"
         },
         "theme": {
-          "customCss": "/Users/plated/developer/grow_docs/src/css/custom.css"
+          "customCss": "/Users/plated/developer/jonny_blog_docusaurus/src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false,
       "respectPrefersColorScheme": true
     },
@@ -45,16 +45,16 @@ export default {
       "title": "",
       "hideOnScroll": true,
       "logo": {
-        "alt": "Grow",
-        "src": "img/grow_light.png",
-        "srcDark": "img/grow_dark.png"
+        "alt": "Dialogues",
+        "src": "img/dialogues_logo.png",
+        "srcDark": "img/dialogues_logo_dark.png"
       },
       "items": [
         {
           "type": "doc",
-          "docId": "introduction/welcome",
+          "docId": "ai_regulation/gamemaking",
           "position": "left",
-          "label": "User Manual"
+          "label": "Papers"
         }
       ]
     },

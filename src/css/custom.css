@@ -6,27 +6,63 @@
 
 /* You can override the default Infima variables here. */
 
+/* Example custom font. See static fonts folder.  */
 @font-face {
-  font-family: "Ranade";
-  src: url("/static/fonts/Ranade-Regular.ttf") format("truetype");
+  font-family: "PlusJakartaSans";
+  src: url("/static/fonts/PlusJakartaSans-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Zodiak";
+  src: url("/static/fonts/Zodiak-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@media screen and (max-width: 996px) {
+  :root {
+    --ifm-font-size-base: 14px;
+  }
+
+  h1,h2,h3,h4,h5 { 
+    font-family: "Zodiak";
+  }
+
+  body{
+    font-family: "PlusJakartaSans";
+  }
+}
+
+@media screen and (min-width: 997px) {
+  :root {
+    --ifm-font-size-base: 14px;
+  }
+
+  h1,h2,h3,h4,h5 { 
+    font-family: "Zodiak";
+  }
+
+  body{
+    font-family: "PlusJakartaSans";
+  }
+}
+
 :root {
-  --ifm-color-primary: #30ccb2;
+  --ifm-color-primary: #e6b248;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
-  --ifm-background-color: #EEEEEE;
-  --ifm-background-surface-color: #EEEEEE;
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #eeeeee;
   /* --ifm-button-background-color: #76EAD7; */
   /* --ifm-footer-background-color: #76EAD7; */
-  --ifm-font-family-base: "Ranade";
-  --ifm-font-color-base: #393E46;
+  /* --ifm-font-family-base: "PlusJakartaSans"; <--Example custom font. See static fonts folder.  */
+  --ifm-font-color-base: #393E46; /*<--Example custom font. See static fonts folder. 
   /* --ifm-font-color-base-inverse */
   /* --ifm-font-color-secondary */
   --ifm-code-font-size: 95%;
@@ -35,7 +71,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 html[data-theme='dark'] {
-  --ifm-color-primary: #76EAD7;
+  --ifm-color-primary: #e6b248;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
@@ -43,8 +79,8 @@ html[data-theme='dark'] {
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
 
-  --ifm-background-color: #1e2022;
-  --ifm-background-surface-color: #393E46;
+  --ifm-background-color: #000000;
+  --ifm-background-surface-color: #161616;
   --ifm-font-color-base: #EEEEEE;
   --ifm-font-color-secondary: #C4FB6D;
 

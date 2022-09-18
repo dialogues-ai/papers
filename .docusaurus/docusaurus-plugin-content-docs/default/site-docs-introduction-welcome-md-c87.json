@@ -1,23 +1,19 @@
 {
   "unversionedId": "introduction/welcome",
   "id": "introduction/welcome",
-  "title": "Welcome to Grow!",
-  "description": "Hi! Welcome to Grow! This can be a very cool tool for you to use in your life. It should feel like the Robin to your Batman. As is, you'll get to record your life down in a journal, which has always been thought of as a good activity, but like flossing, it just doesn't get done. Hopefully, we can make it a little more interesting, and valuable!, than regular journaling by adding some cool features to it, to give you insights into your life. Our job is not to tell you who you are. Our job is to reflect back what you did and said, highlight your values, and let you see how you are becoming.",
+  "title": "Game-Making",
+  "description": "by jonny johnson",
   "source": "@site/docs/introduction/welcome.md",
   "sourceDirName": "introduction",
   "slug": "/introduction/welcome",
-  "permalink": "/grow-docs/docs/introduction/welcome",
+  "permalink": "/docs/docs/introduction/welcome",
   "draft": false,
-  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/introduction/welcome.md",
+  "editUrl": "https://github.com/nomic-io/docs/tree/main/docs/introduction/welcome.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Access Grow",
-    "permalink": "/grow-docs/docs/introduction/access_grow"
-  }
+  "sidebar": "tutorialSidebar"
 }

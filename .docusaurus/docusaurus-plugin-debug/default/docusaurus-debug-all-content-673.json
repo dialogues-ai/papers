@@ -9,250 +9,34 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/grow-docs/docs",
-          "tagsPath": "/grow-docs/docs/tags",
-          "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs",
-          "editUrlLocalized": "https://github.com/dialogues-ai/grow-docs/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "path": "/papers/docs",
+          "tagsPath": "/papers/docs/tags",
+          "editUrl": "https://github.com/nomic-io/docs/tree/main/docs",
+          "editUrlLocalized": "https://github.com/nomic-io/docs/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/plated/developer/grow_docs/sidebars.js",
-          "contentPath": "/Users/plated/developer/grow_docs/docs",
-          "contentPathLocalized": "/Users/plated/developer/grow_docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/plated/developer/jonny_blog_docusaurus/sidebars.js",
+          "contentPath": "/Users/plated/developer/jonny_blog_docusaurus/docs",
+          "contentPathLocalized": "/Users/plated/developer/jonny_blog_docusaurus/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "frequent-errors",
-              "id": "frequent-errors",
-              "title": "Known Bugs",
-              "description": "1. Grow is best used on a computer with a screen and mouse.",
-              "source": "@site/docs/frequent-errors.md",
-              "sourceDirName": ".",
-              "slug": "/frequent-errors",
-              "permalink": "/grow-docs/docs/frequent-errors",
+              "unversionedId": "ai_regulation/gamemaking",
+              "id": "ai_regulation/gamemaking",
+              "title": "Game-Making",
+              "description": "by jonny johnson",
+              "source": "@site/docs/ai_regulation/gamemaking.md",
+              "sourceDirName": "ai_regulation",
+              "slug": "/ai_regulation/gamemaking",
+              "permalink": "/papers/docs/ai_regulation/gamemaking",
               "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/frequent-errors.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tips & Tricks",
-                "permalink": "/grow-docs/docs/tips"
-              },
-              "next": {
-                "title": "Privacy",
-                "permalink": "/grow-docs/docs/privacy"
-              }
-            },
-            {
-              "unversionedId": "introduction/access_grow",
-              "id": "introduction/access_grow",
-              "title": "Access Grow",
-              "description": "There are 3 ways to access Grow.",
-              "source": "@site/docs/introduction/access_grow.md",
-              "sourceDirName": "introduction",
-              "slug": "/introduction/access_grow",
-              "permalink": "/grow-docs/docs/introduction/access_grow",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/introduction/access_grow.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Welcome to Grow!",
-                "permalink": "/grow-docs/docs/introduction/welcome"
-              },
-              "next": {
-                "title": "Create Account",
-                "permalink": "/grow-docs/docs/setup/create-account"
-              }
-            },
-            {
-              "unversionedId": "introduction/welcome",
-              "id": "introduction/welcome",
-              "title": "Welcome to Grow!",
-              "description": "Hi! Welcome to Grow! This can be a very cool tool for you to use in your life. It should feel like the Robin to your Batman. As is, you'll get to record your life down in a journal, which has always been thought of as a good activity, but like flossing, it just doesn't get done. Hopefully, we can make it a little more interesting, and valuable!, than regular journaling by adding some cool features to it, to give you insights into your life. Our job is not to tell you who you are. Our job is to reflect back what you did and said, highlight your values, and let you see how you are becoming.",
-              "source": "@site/docs/introduction/welcome.md",
-              "sourceDirName": "introduction",
-              "slug": "/introduction/welcome",
-              "permalink": "/grow-docs/docs/introduction/welcome",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/introduction/welcome.md",
+              "editUrl": "https://github.com/nomic-io/docs/tree/main/docs/ai_regulation/gamemaking.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Access Grow",
-                "permalink": "/grow-docs/docs/introduction/access_grow"
-              }
-            },
-            {
-              "unversionedId": "privacy",
-              "id": "privacy",
-              "title": "Privacy",
-              "description": "For this beta version, we utilized Google Cloud Platform to deliver the product.",
-              "source": "@site/docs/privacy.md",
-              "sourceDirName": ".",
-              "slug": "/privacy",
-              "permalink": "/grow-docs/docs/privacy",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/privacy.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_position": 7
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Known Bugs",
-                "permalink": "/grow-docs/docs/frequent-errors"
-              }
-            },
-            {
-              "unversionedId": "setup/create-account",
-              "id": "setup/create-account",
-              "title": "Create Account",
-              "description": "Follow these steps to create your account.",
-              "source": "@site/docs/setup/create-account.md",
-              "sourceDirName": "setup",
-              "slug": "/setup/create-account",
-              "permalink": "/grow-docs/docs/setup/create-account",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/setup/create-account.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Access Grow",
-                "permalink": "/grow-docs/docs/introduction/access_grow"
-              },
-              "next": {
-                "title": "Create Entry",
-                "permalink": "/grow-docs/docs/setup/create-post"
-              }
-            },
-            {
-              "unversionedId": "setup/create-graph",
-              "id": "setup/create-graph",
-              "title": "Create Graph",
-              "description": "The graph and snapshot are the last steps to setting up your journal. And the graph takes just a little planning. Together we'll create a simple graph, and you can add to it, and start a new one as you get a grasp of it.",
-              "source": "@site/docs/setup/create-graph.md",
-              "sourceDirName": "setup",
-              "slug": "/setup/create-graph",
-              "permalink": "/grow-docs/docs/setup/create-graph",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/setup/create-graph.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create Entry",
-                "permalink": "/grow-docs/docs/setup/create-post"
-              },
-              "next": {
-                "title": "Create Snapshot",
-                "permalink": "/grow-docs/docs/setup/create-snapshot"
-              }
-            },
-            {
-              "unversionedId": "setup/create-post",
-              "id": "setup/create-post",
-              "title": "Create Entry",
-              "description": "Let's create an entry!",
-              "source": "@site/docs/setup/create-post.md",
-              "sourceDirName": "setup",
-              "slug": "/setup/create-post",
-              "permalink": "/grow-docs/docs/setup/create-post",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/setup/create-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create Account",
-                "permalink": "/grow-docs/docs/setup/create-account"
-              },
-              "next": {
-                "title": "Create Graph",
-                "permalink": "/grow-docs/docs/setup/create-graph"
-              }
-            },
-            {
-              "unversionedId": "setup/create-snapshot",
-              "id": "setup/create-snapshot",
-              "title": "Create Snapshot",
-              "description": "You must have created a graph in order to start making snapshots.",
-              "source": "@site/docs/setup/create-snapshot.md",
-              "sourceDirName": "setup",
-              "slug": "/setup/create-snapshot",
-              "permalink": "/grow-docs/docs/setup/create-snapshot",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/setup/create-snapshot.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create Graph",
-                "permalink": "/grow-docs/docs/setup/create-graph"
-              },
-              "next": {
-                "title": "Tips & Tricks",
-                "permalink": "/grow-docs/docs/tips"
-              }
-            },
-            {
-              "unversionedId": "tips",
-              "id": "tips",
-              "title": "Tips & Tricks",
-              "description": "1. Grow is best used on a computer with a screen and mouse.",
-              "source": "@site/docs/tips.md",
-              "sourceDirName": ".",
-              "slug": "/tips",
-              "permalink": "/grow-docs/docs/tips",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/tips.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create Snapshot",
-                "permalink": "/grow-docs/docs/setup/create-snapshot"
-              },
-              "next": {
-                "title": "Known Bugs",
-                "permalink": "/grow-docs/docs/frequent-errors"
-              }
+              "sidebar": "tutorialSidebar"
             }
           ],
           "drafts": [],
@@ -260,55 +44,15 @@
             "tutorialSidebar": [
               {
                 "type": "category",
-                "label": "Introduction",
+                "label": "AI Regulation",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "introduction/welcome"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "introduction/access_grow"
+                    "id": "ai_regulation/gamemaking"
                   }
                 ]
-              },
-              {
-                "type": "category",
-                "label": "New User Setup",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "setup/create-account"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "setup/create-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "setup/create-graph"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "setup/create-snapshot"
-                  }
-                ]
-              },
-              {
-                "type": "doc",
-                "id": "tips"
-              },
-              {
-                "type": "doc",
-                "id": "frequent-errors"
-              },
-              {
-                "type": "doc",
-                "id": "privacy"
               }
             ]
           }
@@ -322,7 +66,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/grow-docs/blog/tags",
+      "blogTagsListPath": "/papers/blog/tags",
       "blogTagsPaginated": []
     }
   },
@@ -330,12 +74,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/grow-docs/",
+        "permalink": "/papers/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/grow-docs/markdown-page",
+        "permalink": "/papers/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
