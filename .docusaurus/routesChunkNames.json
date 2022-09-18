@@ -1,70 +1,27 @@
 {
-  "/papers/__docusaurus/debug-ab0": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
-    }
-  },
-  "/papers/__docusaurus/debug/config-ad4": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
-    }
-  },
-  "/papers/__docusaurus/debug/content-b6b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
-    },
-    "allContent": "allContent---papers-docusaurus-debug-content-246-743"
-  },
-  "/papers/__docusaurus/debug/globalData-b59": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
-    }
-  },
-  "/papers/__docusaurus/debug/metadata-9c5": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
-    }
-  },
-  "/papers/__docusaurus/debug/registry-65b": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
-    }
-  },
-  "/papers/__docusaurus/debug/routes-f11": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---papers-docusaurus-debug-53-d-eb9"
-    }
-  },
   "/papers/markdown-page-f90": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---papers-markdown-page-444-d32"
+      "plugin": "44420497"
     },
-    "content": "content---papers-markdown-page-393-1bc"
+    "content": "393be207"
   },
   "/papers/docs-787": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---papers-docs-0-d-7-f41"
+      "plugin": "0d7c8835"
     },
-    "versionMetadata": "versionMetadata---papers-docs-935-471"
+    "versionMetadata": "935f2afb"
   },
   "/papers/docs/ai_regulation/gamemaking-0f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---papers-docs-ai-regulation-gamemakingac-0-8d2"
+    "__comp": "17896441",
+    "content": "ac0070dc"
   },
   "/papers/-818": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---papers-markdown-page-444-d32"
+      "plugin": "44420497"
     },
-    "config": "config---papers-5-e-9-f75"
+    "config": "5e9f5e1a"
   }
 }

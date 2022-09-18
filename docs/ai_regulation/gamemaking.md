@@ -3,9 +3,11 @@ sidebar_position: 1
 ---
 
 # Game-Making  
-by **jonny johnson**
+by **jonny johnson** 
+<a target="_blank" href={ require("/static/pdfs/Game-Making.pdf").default } download>Download .pdf</a>  
 
-Tags: Aesthetics, Moralists, Artificial Intelligence, Game Theory, Wittgenstein
+Tags: **Aesthetics**, **Moralists**, **Artificial Intelligence**, **Game Theory**, **Wittgenstein** 
+
 
 At a theoretical level, we accomplish several things when building a machine learning model. 
 
