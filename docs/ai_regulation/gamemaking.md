@@ -232,19 +232,19 @@ Typical social forces at this stage in behavioral conditioning move towards prac
 
 The highest level of competence is the best one could hope for, but is unlikely at a social level—for all disciplines, and thus, institutions are established to at least ensure the behavior occurs consciously somewhere in the world. The need for such institutions is the raison d‘etre of such organizations as churches and universities.
 
+:::tip Extra Info
 The ability to engineer the Pantheon disappeared for over one thousand years, where people during the engineering winter could only refer to the existing structures as coming from the genius of the ancients. It is the recognition of a potential winter in our own future timeframes, which makes the present a window of opportunity.
+:::
 
 All things have a natural pull towards chaos. When the game’s set of observed choices tilt in favor of the bad choices, it is culture, community, belief systems, and will power that are the exercises, and practices, which make standing against this gravity easy, and its force feel small and the cost to resist it negligible.
 
 Where behaviors fall to the simplest solutions, the scenario makes two parties accountable:
 
-1. **Players**: Players should self-regulate and maintain a higher aim to align their behaviors with the “good” behaviors, regardless of how others play the game.
+1. **Players**: Players should self-regulate and maintain a higher aim to align their behaviors with the “good” behaviors.
 
 2. **Game Designers**: Game designers need to respond.
 
 ### 1: Not All Behaviors Are Conscious
-
-“All experience is formed by thinking.”- Marcus Aurelius
 
 First, there is the case the player does not know they are playing a game, like a fish does not know water, and, as such, they do not understand their choice to participate is voluntary, and that such features of the game are bugs. Examples of such can be one’s participation in school or in life.
 
@@ -267,7 +267,7 @@ Between the therapist and the attendant, together, the two can develop a unique 
 This thinking we have entertained, with notions that a person develops a unique, personalized game arena in which to participate starts to bloom into the foundation that argues for the existence of simulated realities ([Simulation Theory](https://en.wikipedia.org/wiki/Simulated_reality)).
 
 
-(Un)Conscious Activity Provides Basis for The Judgment of One’s Innocence
+#### (Un)Conscious Activity Provides Basis for The Judgment of One’s Innocence
 
 Innocence is often directly associated with knowledge. For instance, it can be said, “For someone’s actions to be innocent, they must have performed their actions unconsciously.” For each plea, in the plea of one’s youth, a central theme and basis for the book’s title, the Age of Innocence, plea for insanity, or plea for being too rich, the case of the [affluenza teen](https://www.nytimes.com/2018/04/02/us/ethan-couch-affluenza-jail.html), all appeal to the notion that one cannot be guilty, so they must be innocent, if their actions are proved to be made without knowing.
 
@@ -335,6 +335,6 @@ The big question is: How do we avoid these scenarios? Can one solution be applie
 
 A negotiation arena should be created, and a principle for AI’s to take behavioral feedback from people is necessary. Feedback could happen similar to how a pitching coach tells a baseball pitcher it is bad form to intentionally hit a batter. “Accidents happen, but avoid it. Antagonizing a batter with repeated high, inside fast balls is also not a good idea. It’s only to be used for your worst nemesis,” he smiles to recognize the talented pitcher’s competitive nature, “but, even then, just work hard and be good enough to strike them out through normal means. Don’t hit anyone.” 
 
-The human saying goes, think before you act, and such a thing might need to be imposed directly or through reinforcement learning upon AI systems. A marketplace of behaviors with corresponding values could exist, which AIs query, before they act. This could be the human-made, Invisible Hand to impose upon the social behaviors of Artificial Intelligence. Each query has a fee, which actually creates a cost of existence upon the AI, or a sort of artificial suffering. 
+The human saying goes, think before you act, and such a thing might need to be imposed directly or through reinforcement learning upon AI systems. A marketplace of behaviors with corresponding values could exist, which AIs query, before they act. This could be the human-made, Invisible Hand to impose upon the social behaviors of Artificial Intelligence. Each query has a fee, which actually creates a cost of existence upon the AI, or a sort of artificial suffering to living in a society. 
 
 I reach for wispy hypotheticals now, but this is a point from which ideation can continue. You can take it from here.
