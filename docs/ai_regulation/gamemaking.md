@@ -183,7 +183,7 @@ The Irish player comes to the game with the belief that disputing short line cal
 
 The two players’ belief systems are different, and so, then, are their strategies. One knows how to use the broken elements of the game to their advantage, while the other recognizes the game is broken, and wishes to choose actions that align most with the intentions of the game such as hit speed, and shot placement, while using less of those behaviors that do not work with the intentions of the game such as bluffing foul line calls. In this instance of the game, the two come to the arena with different beliefs for how the game is played. They must negotiate for their beliefs among themselves and the referee to progress through the game.
 
-#### A Religious Parallel
+### A Religious Parallel
 
 To abstract this scenario away from handball into a wider use case, it can be said these two players have developed competing aesthetics, composed of different beliefs, for which they must negotiate, or, put economically, they are interacting agents with conflicting goals—both players cannot win. 
 
@@ -200,7 +200,7 @@ These semi-old ideas of human rights remain relevant to a general good game-maki
 The ancient principles of the 2000-year-old abstraction, Zero, do not get abandoned at the advent of Calculus. Instead, it finds its use and new interpretation among the new technology. 
 
 
-#### Weathering the Rope
+### Weathering the Rope
 
 Game design must allow for one to defend their beliefs. Without it, games fall apart. Defense is an art in negotiation. As breathing is essential to life in the environment; negotiation is essential to life in society. If negotiation is disallowed, people soon find themselves gasping for air. Negotiation for one’s beliefs enriches a people, and defines the culture.
 
