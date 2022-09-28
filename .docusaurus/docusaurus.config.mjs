@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/plated/developer/jonny_blog_docusaurus/sidebars.js",
-          "editUrl": "https://github.com/nomic-io/docs/tree/main/"
+          "editUrl": "https://github.com/dialogues-ai/docs/tree/main/"
         },
         "theme": {
           "customCss": "/Users/plated/developer/jonny_blog_docusaurus/src/css/custom.css"

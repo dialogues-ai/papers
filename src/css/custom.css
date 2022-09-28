@@ -32,6 +32,8 @@
 
   body{
     font-family: "PlusJakartaSans";
+    text-justify: inter-word;
+    text-align: justify;
   }
 }
 
@@ -46,6 +48,8 @@
 
   body{
     font-family: "PlusJakartaSans";
+    /* text-align: justify;
+    text-justify: inter-word; */
   }
 }
 
