@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dialogues-ai/docs/tree/main/',
+            'https://github.com/dialogues-ai/papers/tree/main/',
         },
         // blog: {
         //   showReadingTime: true,
