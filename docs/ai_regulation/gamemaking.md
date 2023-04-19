@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Game-Making  
-by **jonny johnson** 
+
 <a target="_blank" href={ require("/static/pdfs/Game-Making.pdf").default } download>Download .pdf</a>  
 
 Tags: **Aesthetics**, **Moralists**, **Artificial Intelligence**, **Game Theory**, **Wittgenstein** 

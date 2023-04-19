@@ -3,9 +3,18 @@
     "main"
   ],
   "origins": {
+    "666": [
+      85,
+      532,
+      918,
+      666
+    ],
+    "972": [
+      972
+    ],
     "17896441": [
       532,
-      592,
+      666,
       918
     ],
     "44420497": [
@@ -26,24 +35,27 @@
     ],
     "1be78505": [
       532,
-      592,
-      514
+      972
     ],
     "1f391b9e": [
       532,
-      592,
+      666,
       85
     ],
     "393be207": [
-      592,
       414
+    ],
+    "8223dc09": [
+      481
     ],
     "935f2afb": [
       53
     ],
     "ac0070dc": [
-      592,
       745
+    ],
+    "adcfc033": [
+      634
     ],
     "c4f5d8e4": [
       195
@@ -53,27 +65,18 @@
       179,
       303,
       514,
-      592,
+      666,
       918,
       532
-    ],
-    "common": [
-      85,
-      414,
-      514,
-      532,
-      745,
-      918,
-      592
     ]
   },
   "assets": {
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.4bd23018.js",
-          "hash": "0df08427af9c3fb5",
-          "publicPath": "/papers/assets/js/935f2afb.4bd23018.js"
+          "file": "assets/js/935f2afb.7f3dd6df.js",
+          "hash": "adc4d8f2b3a16df1",
+          "publicPath": "/papers/assets/js/935f2afb.7f3dd6df.js"
         }
       ]
     },
@@ -89,9 +92,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.9f5fcf70.js",
-          "hash": "eb7d7e56e30cb157",
-          "publicPath": "/papers/assets/js/main.9f5fcf70.js"
+          "file": "assets/js/main.931a48b0.js",
+          "hash": "905970ad8711c904",
+          "publicPath": "/papers/assets/js/main.931a48b0.js"
         }
       ]
     },
@@ -107,9 +110,9 @@
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.6ebde263.js",
-          "hash": "08b814be0f56589b",
-          "publicPath": "/papers/assets/js/runtime~main.6ebde263.js"
+          "file": "assets/js/runtime~main.08e95464.js",
+          "hash": "bfa9c99fa188890c",
+          "publicPath": "/papers/assets/js/runtime~main.08e95464.js"
         }
       ]
     },
@@ -125,18 +128,18 @@
     "414": {
       "js": [
         {
-          "file": "assets/js/393be207.64174f1f.js",
-          "hash": "569aef5ec4072746",
-          "publicPath": "/papers/assets/js/393be207.64174f1f.js"
+          "file": "assets/js/393be207.cef0ae0b.js",
+          "hash": "506a8cde4ca478ab",
+          "publicPath": "/papers/assets/js/393be207.cef0ae0b.js"
         }
       ]
     },
-    "514": {
+    "481": {
       "js": [
         {
-          "file": "assets/js/1be78505.5932a264.js",
-          "hash": "4742f9f8c4ad0592",
-          "publicPath": "/papers/assets/js/1be78505.5932a264.js"
+          "file": "assets/js/8223dc09.38e7179a.js",
+          "hash": "d8ab82e79ae0dd1b",
+          "publicPath": "/papers/assets/js/8223dc09.38e7179a.js"
         }
       ]
     },
@@ -149,21 +152,30 @@
         }
       ]
     },
-    "592": {
+    "634": {
       "js": [
         {
-          "file": "assets/js/common.82ba0ec8.js",
-          "hash": "097c74b2f5cbd8d5",
-          "publicPath": "/papers/assets/js/common.82ba0ec8.js"
+          "file": "assets/js/adcfc033.ed8e5cf3.js",
+          "hash": "84caa43805db54c4",
+          "publicPath": "/papers/assets/js/adcfc033.ed8e5cf3.js"
+        }
+      ]
+    },
+    "666": {
+      "js": [
+        {
+          "file": "assets/js/666.27fb6cd6.js",
+          "hash": "c9dfc917de7788a3",
+          "publicPath": "/papers/assets/js/666.27fb6cd6.js"
         }
       ]
     },
     "745": {
       "js": [
         {
-          "file": "assets/js/ac0070dc.ea85f8dd.js",
-          "hash": "60f41952a910f931",
-          "publicPath": "/papers/assets/js/ac0070dc.ea85f8dd.js"
+          "file": "assets/js/ac0070dc.567d5dd4.js",
+          "hash": "54066ea19be12cb7",
+          "publicPath": "/papers/assets/js/ac0070dc.567d5dd4.js"
         }
       ]
     },
@@ -179,9 +191,23 @@
     "918": {
       "js": [
         {
-          "file": "assets/js/17896441.28b89563.js",
-          "hash": "da86f23cf2c7ea7f",
-          "publicPath": "/papers/assets/js/17896441.28b89563.js"
+          "file": "assets/js/17896441.d465fe69.js",
+          "hash": "7c0fe4644b03a091",
+          "publicPath": "/papers/assets/js/17896441.d465fe69.js"
+        }
+      ]
+    },
+    "972": {
+      "js": [
+        {
+          "file": "assets/js/972.02c79aea.js",
+          "hash": "9289588ce7b1b88b",
+          "publicPath": "/papers/assets/js/972.02c79aea.js"
+        },
+        {
+          "file": "assets/js/1be78505.b0aa7c6d.js",
+          "hash": "13d9c2890dd829d2",
+          "publicPath": "/papers/assets/js/1be78505.b0aa7c6d.js"
         }
       ]
     }

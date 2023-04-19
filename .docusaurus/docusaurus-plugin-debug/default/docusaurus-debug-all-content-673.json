@@ -11,8 +11,8 @@
           "className": "docs-version-current",
           "path": "/papers/docs",
           "tagsPath": "/papers/docs/tags",
-          "editUrl": "https://github.com/dialogues-ai/docs/tree/main/docs",
-          "editUrlLocalized": "https://github.com/dialogues-ai/docs/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrl": "https://github.com/dialogues-ai/papers/tree/main/docs",
+          "editUrlLocalized": "https://github.com/dialogues-ai/papers/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/plated/developer/jonny_blog_docusaurus/sidebars.js",
@@ -23,20 +23,74 @@
               "unversionedId": "ai_regulation/gamemaking",
               "id": "ai_regulation/gamemaking",
               "title": "Game-Making",
-              "description": "by jonny johnson",
+              "description": "Download .pdf",
               "source": "@site/docs/ai_regulation/gamemaking.md",
               "sourceDirName": "ai_regulation",
               "slug": "/ai_regulation/gamemaking",
               "permalink": "/papers/docs/ai_regulation/gamemaking",
               "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/docs/tree/main/docs/ai_regulation/gamemaking.md",
+              "editUrl": "https://github.com/dialogues-ai/papers/tree/main/docs/ai_regulation/gamemaking.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Ignorance Wall",
+                "permalink": "/papers/docs/ai_regulation/ignorance_wall"
+              }
+            },
+            {
+              "unversionedId": "ai_regulation/ignorance_wall",
+              "id": "ai_regulation/ignorance_wall",
+              "title": "The Ignorance Wall",
+              "description": "/papers/img/iron-man-gif",
+              "source": "@site/docs/ai_regulation/ignorance_wall.md",
+              "sourceDirName": "ai_regulation",
+              "slug": "/ai_regulation/ignorance_wall",
+              "permalink": "/papers/docs/ai_regulation/ignorance_wall",
+              "draft": false,
+              "editUrl": "https://github.com/dialogues-ai/papers/tree/main/docs/ai_regulation/ignorance_wall.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "General Statement",
+                "permalink": "/papers/docs/ai_regulation/intro"
+              },
+              "next": {
+                "title": "Game-Making",
+                "permalink": "/papers/docs/ai_regulation/gamemaking"
+              }
+            },
+            {
+              "unversionedId": "ai_regulation/intro",
+              "id": "ai_regulation/intro",
+              "title": "General Statement",
+              "description": "*Relate AI behavior to human behavior,",
+              "source": "@site/docs/ai_regulation/intro.md",
+              "sourceDirName": "ai_regulation",
+              "slug": "/ai_regulation/intro",
+              "permalink": "/papers/docs/ai_regulation/intro",
+              "draft": false,
+              "editUrl": "https://github.com/dialogues-ai/papers/tree/main/docs/ai_regulation/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar"
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "The Ignorance Wall",
+                "permalink": "/papers/docs/ai_regulation/ignorance_wall"
+              }
             }
           ],
           "drafts": [],
@@ -48,6 +102,14 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "ai_regulation/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ai_regulation/ignorance_wall"
+                  },
                   {
                     "type": "doc",
                     "id": "ai_regulation/gamemaking"
