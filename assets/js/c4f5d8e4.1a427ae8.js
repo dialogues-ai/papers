@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpapers=self.webpackChunkpapers||[]).push([[195],{2841:(e,a,r)=>{r.r(a),r.d(a,{default:()=>t});var p=r(7294),s=r(6775);function t(){return p.createElement(s.l_,{to:"/papers/docs/ai_regulation/gamemaking"})}}}]);
