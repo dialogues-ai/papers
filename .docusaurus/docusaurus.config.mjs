@@ -13,6 +13,7 @@ export default {
   "favicon": "img/DI+logo.png",
   "organizationName": "dialogues-ai",
   "projectName": "papers",
+  "trailingSlash": false,
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -284,8 +285,12 @@ export default {
   "plugins": [],
   "themes": [],
   "scripts": [],
+  "headTags": [],
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false
+  "noIndex": false,
+  "markdown": {
+    "mermaid": false
+  }
 };

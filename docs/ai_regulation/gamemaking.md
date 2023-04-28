@@ -8,6 +8,15 @@ sidebar_position: 3
 
 Tags: **Aesthetics**, **Moralists**, **Artificial Intelligence**, **Game Theory**, **Wittgenstein** 
 
+Tl;dr
+The idea of this piece is: We don't want AIs to go to the boundaries of the games we create and execute all the most reproachable moves. These are legal moves, allowed by the game, but moves players avoid because they make other players, coaches, and fans hate them. Eventhough they're legal with the potential to win games, we don't want AIs optimizing their "wins" by using these plays.
+
+Examples are:
+1. Gerrymandering
+2. Filibusters
+3. Hitting the batter with a pitch
+4. [Soccer players' (and basketball) overreaction to an injury, or touch](https://www.reddit.com/r/explainlikeimfive/comments/3hpwye/eli5_why_do_soccer_players_always_seem_to/)
+
 
 At a theoretical level, we accomplish several things when building a machine learning model. 
 
